@@ -1,0 +1,11 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "How can I help you"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

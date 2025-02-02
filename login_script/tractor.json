@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "15",
+            "text": "",
+            "resource-id": "GOOGLE_LOGIN_BUTTON",
+            "class": "android.view.ViewGroup",
+            "package": "com.consumerapp_v1",
+            "content-desc": "Sign in with google button",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[48,1102][720,1182]",
+            "drawing-order": "17",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.LinearLayout",
+            "package": "com.google.android.gms",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[179,590][668,658]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    }
+]

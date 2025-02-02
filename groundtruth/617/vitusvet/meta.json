@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.vitusvet.android:id/menu_item_appointments",
+            "class": "android.widget.LinearLayout",
+            "package": "com.vitusvet.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[228,1064][364,1176]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "swipe",
+        "element": {
+            "index": "13",
+            "text": "  ",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.vitusvet.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,880][768,1056]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

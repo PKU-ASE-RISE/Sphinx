@@ -1,0 +1,58 @@
+[
+    {
+        "type": "swipe",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.fotoable.temperature.weather:id/view_hours_chart",
+            "class": "android.view.View",
+            "package": "com.fotoable.temperature.weather",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,641][736,821]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Sat",
+            "resource-id": "com.fotoable.temperature.weather:id/tv_daily_week_day",
+            "class": "android.widget.TextView",
+            "package": "com.fotoable.temperature.weather",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[56,793][97,831]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

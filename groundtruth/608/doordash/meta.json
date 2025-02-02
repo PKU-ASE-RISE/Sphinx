@@ -1,0 +1,58 @@
+[
+    {
+        "type": "swipe",
+        "element": {
+            "index": "3",
+            "text": "",
+            "resource-id": "",
+            "class": "android.view.ViewGroup",
+            "package": "com.dd.doordash",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,999][768,1072]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.dd.doordash:id/see_all_button",
+            "class": "android.widget.Button",
+            "package": "com.dd.doordash",
+            "content-desc": "See all",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[672,434][736,498]",
+            "drawing-order": "6",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "登录",
+            "resource-id": "com.tencent.mobileqq:id/btn_login",
+            "class": "android.widget.Button",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[389,950][736,1040]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "QQ号登录",
+            "resource-id": "com.tencent.mobileqq:id/t6v",
+            "class": "android.widget.TextView",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[82,1097][188,1130]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{username}",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.tencent.mobileqq:id/023",
+            "class": "android.widget.RelativeLayout",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[96,317][672,437]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{password}",
+        "element": {
+            "index": "0",
+            "text": "输入QQ密码",
+            "resource-id": "com.tencent.mobileqq:id/twx",
+            "class": "android.widget.EditText",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "密码 安全",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[96,477][672,597]",
+            "drawing-order": "1",
+            "hint": "输入QQ密码",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.tencent.mobileqq:id/slx",
+            "class": "android.widget.CheckBox",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "同意协议",
+            "checkable": "true",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[107,746][139,778]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "登录",
+            "resource-id": "com.tencent.mobileqq:id/slm",
+            "class": "android.widget.Button",
+            "package": "com.tencent.mobileqq",
+            "content-desc": "登录",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[96,626][672,716]",
+            "drawing-order": "7",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "none",
+        "element": null
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Search for destination",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "Check the ride price",
+        "length": 1,
+        "start_index": 2,
+        "end_index": 2
+    }
+]

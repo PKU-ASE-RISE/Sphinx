@@ -1,0 +1,24 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Columbia University"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "Columbia University"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "NYU Stern School of Business"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "NYU Stern School of Business"
+        }
+    }
+]

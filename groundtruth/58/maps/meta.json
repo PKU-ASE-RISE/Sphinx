@@ -1,0 +1,63 @@
+[
+    {
+        "type": "input",
+        "message": "restaurants near me",
+        "element": {
+            "index": "1",
+            "text": "Try gas stations, ATMs",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.google.android.apps.maps",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[124,64][546,160]",
+            "drawing-order": "2",
+            "hint": "Try gas stations, ATMs",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.google.android.apps.maps:id/recycler_view",
+            "class": "android.support.v7.widget.RecyclerView",
+            "package": "com.google.android.apps.maps",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "true",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,834][768,1102]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

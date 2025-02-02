@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.guardian:id/fabHome",
+            "class": "android.widget.ImageButton",
+            "package": "com.guardian",
+            "content-desc": "Open navigation button",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[640,1056][752,1168]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

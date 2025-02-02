@@ -1,0 +1,14 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.odenapps.scanner:id/barcode_qr_code"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "content-desc": "QR Code",
+            "activity": "com.odenapps.scanner.ui.BarcodeActivity"
+        }
+    }
+]

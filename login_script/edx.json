@@ -1,0 +1,110 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "Sign In",
+            "resource-id": "org.edx.mobile:id/log_in",
+            "class": "android.widget.Button",
+            "package": "org.edx.mobile",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[528,1042][728,1142]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Sign in with Google",
+            "resource-id": "org.edx.mobile:id/google_button",
+            "class": "android.widget.Button",
+            "package": "org.edx.mobile",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,960][736,1050]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "andrewchad110@gmail.com",
+            "resource-id": "android:id/text1",
+            "class": "android.widget.CheckedTextView",
+            "package": "com.google.android.gms",
+            "content-desc": "",
+            "checkable": "true",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[51,517][716,613]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "OK",
+            "resource-id": "android:id/button1",
+            "class": "android.widget.Button",
+            "package": "com.google.android.gms",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[564,717][692,813]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    }
+]

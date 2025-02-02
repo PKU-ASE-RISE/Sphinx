@@ -1,0 +1,26 @@
+[
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.home.HomeActivity"
+    ],
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.home.HomeActivity"
+    ],
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.home.HomeActivity"
+    ],
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.customerfeedback.impl.CustomerServiceActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.customtabs.CustomTabActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.customtabs.CustomTabActivity"
+    ]
+]

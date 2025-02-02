@@ -1,0 +1,22 @@
+[
+    [
+        "com.android.chrome",
+        "com.google.android.apps.chrome.Main"
+    ],
+    [
+        "com.android.chrome",
+        "PopupWindow"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.settings.SettingsActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.settings.SettingsActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.settings.SettingsActivity"
+    ]
+]

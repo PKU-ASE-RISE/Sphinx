@@ -1,0 +1,111 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Type, paste, or translate from the sources below",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.deepl.mobiletranslator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,560][729,598]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "hello world",
+        "element": {
+            "index": "1",
+            "text": "Type or paste here to translate",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.deepl.mobiletranslator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,208][473,246]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "English (US)",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.deepl.mobiletranslator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[515,112][674,145]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Chinese (simplified)",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.deepl.mobiletranslator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[64,549][357,587]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

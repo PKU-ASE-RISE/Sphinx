@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.moonpi.swiftnotes:id/titleView"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Test"
+        }
+    }
+]

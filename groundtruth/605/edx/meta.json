@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "org.edx.mobile:id/course_item_detail",
+            "class": "android.widget.LinearLayout",
+            "package": "org.edx.mobile",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[24,377][744,484]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.kb404.money:id/op_sum"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "10.00"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.kb404.money:id/op_shop",
+            "text": "dinner"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

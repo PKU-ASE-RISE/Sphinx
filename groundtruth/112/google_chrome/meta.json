@@ -1,0 +1,115 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.android.chrome:id/tab_switcher_button",
+            "class": "android.widget.ImageButton",
+            "package": "com.android.chrome",
+            "content-desc": "1 open tab, tap to switch tabs",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[576,90][672,202]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "New tab",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[112,90][247,202]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "OK",
+            "resource-id": "com.android.chrome:id/button_primary",
+            "class": "android.widget.Button",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[528,842][704,938]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "www.google.com",
+        "element": {
+            "index": "1",
+            "text": "Search or type web address",
+            "resource-id": "com.android.chrome:id/url_bar",
+            "class": "android.widget.EditText",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[120,96][560,196]",
+            "drawing-order": "2",
+            "hint": "Search or type web address",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

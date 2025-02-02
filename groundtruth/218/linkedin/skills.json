@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Find section that uploading resume",
+        "length": 3,
+        "start_index": 0,
+        "end_index": 2
+    },
+    {
+        "name": "Select resume for update",
+        "length": 1,
+        "start_index": 3,
+        "end_index": 3
+    },
+    {
+        "name": "Upload the resume to app",
+        "length": 1,
+        "start_index": 4,
+        "end_index": 4
+    }
+]

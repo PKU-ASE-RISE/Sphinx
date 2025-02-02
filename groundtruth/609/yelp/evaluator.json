@@ -1,0 +1,24 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Tomorrow"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "Tomorrow"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "6100 Main St"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "6100 Main St"
+        }
+    }
+]

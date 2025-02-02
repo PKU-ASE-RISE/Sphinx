@@ -1,0 +1,112 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "3",
+            "text": "",
+            "resource-id": "com.fitnow.loseit:id/floating_action_button",
+            "class": "android.widget.ImageButton",
+            "package": "com.fitnow.loseit",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[328,984][440,1096]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Weight",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.fitnow.loseit",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[96,472][240,567]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "160",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.fitnow.loseit",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[64,216][704,275]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.Button",
+            "package": "com.fitnow.loseit",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[632,68][760,140]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

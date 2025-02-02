@@ -1,0 +1,86 @@
+[
+    {
+        "type": "input",
+        "message": "56.6",
+        "element": {
+            "index": "1",
+            "text": "0",
+            "resource-id": "com.zaidisoft.teninone:id/billAmountET",
+            "class": "android.widget.EditText",
+            "package": "com.zaidisoft.teninone",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[457,585][752,666]",
+            "drawing-order": "2",
+            "hint": "0",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "10",
+        "element": {
+            "index": "1",
+            "text": "0",
+            "resource-id": "com.zaidisoft.teninone:id/tipPercentET",
+            "class": "android.widget.EditText",
+            "package": "com.zaidisoft.teninone",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[457,703][752,784]",
+            "drawing-order": "2",
+            "hint": "0",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "CALCULATE",
+            "resource-id": "com.zaidisoft.teninone:id/calculateBtn",
+            "class": "android.widget.Button",
+            "package": "com.zaidisoft.teninone",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[392,943][744,1039]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

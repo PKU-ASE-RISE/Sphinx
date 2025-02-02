@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Search restaurant for reservation",
+        "length": 3,
+        "start_index": 0,
+        "end_index": 2
+    },
+    {
+        "name": "Input reservation details",
+        "length": 3,
+        "start_index": 2,
+        "end_index": 4
+    },
+    {
+        "name": "Confirm the reservation",
+        "length": 1,
+        "start_index": 5,
+        "end_index": 6
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "2",
+            "text": "",
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/fab_new_task",
+            "class": "android.widget.ImageButton",
+            "package": "org.secuso.privacyfriendlytodolist",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[624,1040][736,1152]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Sample Todo",
+        "element": {
+            "index": "1",
+            "text": "Name",
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/et_new_task_name",
+            "class": "android.widget.EditText",
+            "package": "org.secuso.privacyfriendlytodolist",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[52,370][716,461]",
+            "drawing-order": "3",
+            "hint": "Name",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "OKAY",
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/bt_new_task_ok",
+            "class": "android.widget.Button",
+            "package": "org.secuso.privacyfriendlytodolist",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[526,914][736,1010]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "{username}",
+        "element": {
+            "index": "0",
+            "text": "Username, email or mobile number",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.instagram.android",
+            "content-desc": "Username, email or mobile number",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[64,493][595,531]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{password}",
+        "element": {
+            "index": "0",
+            "text": "Password",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.instagram.android",
+            "content-desc": "Password",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[64,635][216,673]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Log in",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.instagram.android",
+            "content-desc": "Log in",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[338,760][431,802]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "back",
+        "element": null
+    }
+]

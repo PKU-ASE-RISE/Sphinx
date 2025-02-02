@@ -1,0 +1,26 @@
+[
+    {
+        "name": "search",
+        "length": 6,
+        "start_index": 0,
+        "end_index": 5
+    },
+    {
+        "name": "find item",
+        "length": 5,
+        "start_index": 6,
+        "end_index": 10
+    },
+    {
+        "name": "add cart",
+        "length": 8,
+        "start_index": 11,
+        "end_index": 18
+    },
+    {
+        "name": "input information",
+        "length": 3,
+        "start_index": 19,
+        "end_index": 21
+    }
+]

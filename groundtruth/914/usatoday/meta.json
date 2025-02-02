@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.usatoday.android.news:id/sections_tab",
+            "class": "android.widget.FrameLayout",
+            "package": "com.usatoday.android.news",
+            "content-desc": "Sections",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[192,1072][384,1184]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "5",
+            "text": "Politics",
+            "resource-id": "com.usatoday.android.news:id/nav_section_textview",
+            "class": "android.widget.TextView",
+            "package": "com.usatoday.android.news",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[384,454][768,526]",
+            "drawing-order": "8",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

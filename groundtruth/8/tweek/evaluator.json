@@ -1,0 +1,12 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "pick up milk"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

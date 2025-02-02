@@ -1,0 +1,22 @@
+[
+    [
+        "com.duckduckgo.mobile.android",
+        "com.duckduckgo.app.systemsearch.SystemSearchActivity"
+    ],
+    [
+        "com.duckduckgo.mobile.android",
+        "com.duckduckgo.app.systemsearch.SystemSearchActivity"
+    ],
+    [
+        "com.duckduckgo.mobile.android",
+        "com.duckduckgo.app.browser.BrowserActivity"
+    ],
+    [
+        "AtchDlg:com.duckduckgo.mobile.android",
+        "com.duckduckgo.app.browser.BrowserActivity"
+    ],
+    [
+        "com.duckduckgo.mobile.android",
+        "com.duckduckgo.app.browser.BrowserActivity"
+    ]
+]

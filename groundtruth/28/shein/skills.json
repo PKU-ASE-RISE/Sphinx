@@ -1,0 +1,26 @@
+[
+    {
+        "name": "search skirt",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "select product",
+        "length": 3,
+        "start_index": 2,
+        "end_index": 4
+    },
+    {
+        "name": "select size",
+        "length": 1,
+        "start_index": 5,
+        "end_index": 5
+    },
+    {
+        "name": "add to chart",
+        "length": 1,
+        "start_index": 6,
+        "end_index": 6
+    }
+]

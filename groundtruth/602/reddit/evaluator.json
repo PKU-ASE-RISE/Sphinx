@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "What are the implications of recent advances in artificial intelligence?"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "What are the implications of recent advances in artificial intelligence?"
+        }
+    }
+]

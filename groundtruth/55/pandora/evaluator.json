@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.pandora.android:id/backstage_edit_title_edit",
+            "text": "good vibes"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.pandora.android:id/collection_item_title_text",
+            "text": "Sunshine"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

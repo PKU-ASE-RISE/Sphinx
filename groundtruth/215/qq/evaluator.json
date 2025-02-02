@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "content-desc": "\u8d85\u5927"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

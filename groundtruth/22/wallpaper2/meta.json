@@ -1,0 +1,84 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "SIDE AQUARIUM",
+            "resource-id": "com.app2game.aquarium.live.wallpaper.free:id/slide",
+            "class": "android.widget.Button",
+            "package": "com.app2game.aquarium.live.wallpaper.free",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[8,262][380,462]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Set wallpaper",
+            "resource-id": "com.android.wallpaper.livepicker:id/preview_attribution_pane_set_wallpaper_button",
+            "class": "android.widget.Button",
+            "package": "com.android.wallpaper.livepicker",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[267,1066][500,1168]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Home screen",
+            "resource-id": "android:id/text1",
+            "class": "android.widget.TextView",
+            "package": "com.android.wallpaper.livepicker",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[51,565][716,661]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "chan.android.app.pocketnote:id/notes_menu_$_add",
+            "class": "android.widget.TextView",
+            "package": "chan.android.app.pocketnote",
+            "content-desc": "Add",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[656,48][768,144]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Test",
+        "element": {
+            "NAF": "true",
+            "index": "0",
+            "text": "",
+            "resource-id": "chan.android.app.pocketnote:id/editor_$_edittext_title",
+            "class": "android.widget.EditText",
+            "package": "chan.android.app.pocketnote",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[10,156][674,225]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

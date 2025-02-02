@@ -1,0 +1,26 @@
+[
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.main.ui.MainActivity"
+    ],
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.main.ui.MainActivity"
+    ],
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.main.ui.MainActivity"
+    ],
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.addentry.ui.activity.QuickAddActivity"
+    ],
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.addentry.ui.activity.QuickAddActivity"
+    ],
+    [
+        "com.myfitnesspal.android",
+        "com.myfitnesspal.feature.main.ui.MainActivity"
+    ]
+]

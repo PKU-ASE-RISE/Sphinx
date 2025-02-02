@@ -1,0 +1,22 @@
+[
+    [
+        "com.microsoft.emmx",
+        "com.microsoft.ruby.Main"
+    ],
+    [
+        "com.microsoft.emmx",
+        "PopupWindow"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.edge_settings.EdgeSettingsActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.edge_settings.EdgeSettingsActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.edge_settings.EdgeSettingsActivity"
+    ]
+]

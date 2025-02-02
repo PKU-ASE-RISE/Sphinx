@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "",
+            "resource-id": "com.foxnews.android:id/navbar_browse",
+            "class": "androidx.appcompat.widget.LinearLayoutCompat",
+            "package": "com.foxnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[153,1072][306,1184]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "4",
+            "text": "Politics",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.foxnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,594][768,701]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

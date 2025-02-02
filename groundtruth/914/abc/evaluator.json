@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.abc.abcnews:id/title"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Politics"
+        }
+    }
+]

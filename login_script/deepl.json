@@ -1,0 +1,126 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Log in",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.deepl.mobiletranslator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,109][218,147]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "{username}",
+        "element": {
+            "NAF": "true",
+            "index": "1",
+            "text": "",
+            "resource-id": "menu-login-username",
+            "class": "android.widget.EditText",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[50,848][718,926]",
+            "drawing-order": "0",
+            "hint": "Email",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "{password}",
+        "element": {
+            "NAF": "true",
+            "index": "1",
+            "text": "",
+            "resource-id": "menu-login-password",
+            "class": "android.widget.EditText",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "true",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[50,706][648,784]",
+            "drawing-order": "0",
+            "hint": "Password",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "Log in",
+            "resource-id": "menu-login-submit",
+            "class": "android.widget.Button",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[48,884][720,974]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    }
+]

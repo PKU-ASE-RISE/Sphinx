@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.google.android.keep:id/index_note_title",
+            "text": "Test"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.google.android.keep:id/index_note_text_description",
+            "text": "This is a test."
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

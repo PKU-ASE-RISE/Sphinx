@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Find help and support in setting",
+        "length": 5,
+        "start_index": 0,
+        "end_index": 4
+    },
+    {
+        "name": "Connect with a support agent",
+        "length": 4,
+        "start_index": 5,
+        "end_index": 8
+    },
+    {
+        "name": "Start a chat with agent",
+        "length": 1,
+        "start_index": 8,
+        "end_index": 9
+    }
+]

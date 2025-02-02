@@ -1,0 +1,14 @@
+[
+    {
+        "name": "enter history page",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "clear history",
+        "length": 2,
+        "start_index": 2,
+        "end_index": 3
+    }
+]

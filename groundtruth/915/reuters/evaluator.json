@@ -1,0 +1,10 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "click",
+            "resource-id": "com.thomsonreuters.reuters:id/settings_contact_us"
+        }
+    }
+]

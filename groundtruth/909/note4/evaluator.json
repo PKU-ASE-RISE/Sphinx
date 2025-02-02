@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "chan.android.app.pocketnote:id/note_item_$_textview_title"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Test"
+        }
+    }
+]

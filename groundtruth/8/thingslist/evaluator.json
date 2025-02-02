@@ -1,0 +1,32 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "text": "Add"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "taskinput"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "pick up milk"
+        }
+    },
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "text": "\uf404"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "text": "pick up milk"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "0",
+            "text": "",
+            "resource-id": "sharefiles.sharemusic.shareapps.filetransfer:id/qx",
+            "class": "android.widget.ImageView",
+            "package": "sharefiles.sharemusic.shareapps.filetransfer",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[102,208][282,388]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Photos",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "sharefiles.sharemusic.shareapps.filetransfer",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[603,189][692,227]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "1",
+            "text": "",
+            "resource-id": "sharefiles.sharemusic.shareapps.filetransfer:id/qr",
+            "class": "android.widget.CheckBox",
+            "package": "sharefiles.sharemusic.shareapps.filetransfer",
+            "content-desc": "",
+            "checkable": "true",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[183,632][255,704]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "SEND",
+            "resource-id": "sharefiles.sharemusic.shareapps.filetransfer:id/qx",
+            "class": "android.widget.TextView",
+            "package": "sharefiles.sharemusic.shareapps.filetransfer",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[398,950][706,1030]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

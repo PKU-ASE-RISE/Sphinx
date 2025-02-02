@@ -1,0 +1,31 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "No history here"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "text": "History"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "resource-id": "org.mozilla.firefox:id/history_delete"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        "com.udagrastudios.qrandbarcodescanner",
+        "com.udagrastudios.qrandbarcodescanner.activity.HomeActivity"
+    ],
+    [
+        "com.google.android.apps.photos",
+        "com.google.android.apps.photos.picker.external.ExternalPickerActivity"
+    ],
+    [
+        "com.google.android.apps.photos",
+        "com.google.android.apps.photos.localmedia.ui.LocalPhotosActivity"
+    ],
+    [
+        "com.udagrastudios.qrandbarcodescanner",
+        "com.udagrastudios.qrandbarcodescanner.activity.ScanResultActivity"
+    ]
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "class": "android.view.View",
+            "index": "1"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "class": "android.widget.EditText"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "500"
+        }
+    }
+]

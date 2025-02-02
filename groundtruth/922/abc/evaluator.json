@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.abc.abcnews:id/story_title"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.widget.CheckedTextView",
+            "checkable": "true",
+            "checked": "false"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

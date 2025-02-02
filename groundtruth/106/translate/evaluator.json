@@ -1,0 +1,33 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "free.translate.all.language.translator:id/tvLanguageTo",
+            "text": "Chinese Simplified"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "hello world",
+            "text": "Write text to translate."
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "text": "Chinese Simplified"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

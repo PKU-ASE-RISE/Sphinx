@@ -1,0 +1,31 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "content-desc": "UCI ICS logo"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "back"
+        }
+    },
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "back"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "content-desc": "University of California, Irvine"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

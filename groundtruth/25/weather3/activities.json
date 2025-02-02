@@ -1,0 +1,14 @@
+[
+    [
+        "com.fotoable.temperature.weather",
+        "com.fotoable.weather.view.acitivity.MainActivity"
+    ],
+    [
+        "com.fotoable.temperature.weather",
+        "com.fotoable.weather.view.acitivity.MainActivity"
+    ],
+    [
+        "com.fotoable.temperature.weather",
+        "com.fotoable.weather.view.acitivity.DailyDetailActivity"
+    ]
+]

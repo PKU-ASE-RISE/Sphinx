@@ -1,0 +1,30 @@
+[
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.MainActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.MainActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.activities.MyLocationActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.activities.SearchLocationActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.activities.SearchLocationActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.activities.MyLocationActivity"
+    ],
+    [
+        "com.weather.forecast.weatherchannel",
+        "com.weather.forecast.weatherchannel.MainActivity"
+    ]
+]

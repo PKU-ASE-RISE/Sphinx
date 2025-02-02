@@ -1,0 +1,120 @@
+[
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "4",
+            "text": "Sign In",
+            "resource-id": "com.contextlogic.geek:id/login_fragment_sign_in_button",
+            "class": "android.widget.TextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[194,718][574,802]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "{username}",
+        "element": {
+            "index": "1",
+            "text": "Email",
+            "resource-id": "com.contextlogic.geek:id/sign_in_fragment_email_text",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,180][748,261]",
+            "drawing-order": "2",
+            "hint": "Email",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{password}",
+        "element": {
+            "index": "2",
+            "text": "Password",
+            "resource-id": "com.contextlogic.geek:id/sign_in_fragment_password_text",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "true",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,288][748,369]",
+            "drawing-order": "3",
+            "hint": "Password",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "Sign In",
+            "resource-id": "com.contextlogic.geek:id/sign_in_fragment_sign_in_button",
+            "class": "android.widget.TextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,396][748,476]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    }
+]

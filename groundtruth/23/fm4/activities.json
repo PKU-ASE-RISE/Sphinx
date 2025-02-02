@@ -1,0 +1,10 @@
+[
+    [
+        "com.ace.ex.file.manager",
+        "com.ace.fileexplorer.MainActivity"
+    ],
+    [
+        "com.ace.ex.file.manager",
+        "com.ace.fileexplorer.feature.activity.AceAnalyzeActivity"
+    ]
+]

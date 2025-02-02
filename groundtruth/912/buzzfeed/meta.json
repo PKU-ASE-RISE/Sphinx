@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "2",
+            "text": "",
+            "resource-id": "com.buzzfeed.android:id/menu_user_profile_root",
+            "class": "android.view.ViewGroup",
+            "package": "com.buzzfeed.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[672,56][768,152]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

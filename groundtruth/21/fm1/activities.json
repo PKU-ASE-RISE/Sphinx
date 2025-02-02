@@ -1,0 +1,22 @@
+[
+    [
+        "com.alphainventor.filemanager",
+        "com.alphainventor.filemanager.activity.MainActivity"
+    ],
+    [
+        "com.alphainventor.filemanager",
+        "com.alphainventor.filemanager.activity.MainActivity"
+    ],
+    [
+        "com.alphainventor.filemanager",
+        "com.alphainventor.filemanager.activity.MainActivity"
+    ],
+    [
+        "com.google.android.packageinstaller",
+        "com.android.packageinstaller.UninstallerActivity"
+    ],
+    [
+        "com.alphainventor.filemanager",
+        "com.alphainventor.filemanager.activity.MainActivity"
+    ]
+]

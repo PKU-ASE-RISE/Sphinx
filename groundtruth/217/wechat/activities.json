@@ -1,0 +1,30 @@
+[
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.sns.ui.improve.ImproveSnsTimelineUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.sns.ui.SnsUploadUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.sns.ui.SnsUploadUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.sns.ui.SnsUploadUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.sns.ui.improve.ImproveSnsTimelineUI"
+    ]
+]

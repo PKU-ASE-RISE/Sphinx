@@ -1,0 +1,25 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "douzifly.list:id/edit_text"
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "resource-id": "douzifly.list:id/btn_delete"
+        },
+        "check_type": "equal",
+        "check_rules": {
+        }
+    }
+]

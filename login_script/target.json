@@ -1,0 +1,146 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Welcome! Sign in",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.target.ui",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[238,918][530,961]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{username}",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.FrameLayout",
+            "package": "com.target.ui",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,375][736,459]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "{password}",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.FrameLayout",
+            "package": "com.target.ui",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,499][736,595]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "6",
+            "text": "Sign in",
+            "resource-id": "com.target.ui:id/bvSignIn",
+            "class": "android.widget.Button",
+            "package": "com.target.ui",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,842][736,938]",
+            "drawing-order": "13",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "5",
+            "text": "Not now",
+            "resource-id": "com.target.ui:id/bvNotNow",
+            "class": "android.widget.Button",
+            "package": "com.target.ui",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,867][736,963]",
+            "drawing-order": "8",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "back",
+        "element": null
+    }
+]

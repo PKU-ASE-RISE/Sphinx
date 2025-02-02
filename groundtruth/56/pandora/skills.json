@@ -1,0 +1,14 @@
+[
+    {
+        "name": "search for 'chilled beats'",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "play the first search result",
+        "length": 1,
+        "start_index": 2,
+        "end_index": 2
+    }
+]

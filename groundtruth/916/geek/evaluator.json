@@ -1,0 +1,29 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Details"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Overview"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Related"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

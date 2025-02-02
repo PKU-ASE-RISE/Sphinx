@@ -1,0 +1,17 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/button_save"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/edit_weight",
+            "text": "160"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

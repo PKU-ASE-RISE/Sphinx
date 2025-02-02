@@ -1,0 +1,8 @@
+[
+    {
+        "name": "scan the barcode of a local photo",
+        "length": 4,
+        "start_index": 0,
+        "end_index": 3
+    }
+]

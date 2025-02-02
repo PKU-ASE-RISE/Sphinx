@@ -1,0 +1,18 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "resource-id": "com.tleapps.simpletipcalculator:id/buttonShare",
+            "action_type": "click"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "com.tleapps.simpletipcalculator:id/textViewTotalToPay"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "$69.00"
+        }
+    }
+]

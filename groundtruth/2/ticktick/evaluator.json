@@ -1,0 +1,38 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "resource-id": "com.ticktick.task:id/iv_save"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "com.ticktick.task:id/et_title"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "test"
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "message": "test two"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "index": "3",
+            "class": "android.widget.FrameLayout"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

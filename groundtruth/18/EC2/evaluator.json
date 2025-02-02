@@ -1,0 +1,9 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "com.bktranslator.enlishchinese:id/bt_anh_viet_input"
+        }
+    }
+]

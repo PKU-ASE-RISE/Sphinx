@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "SAT",
+            "resource-id": "com.weather.forecast.weatherchannel:id/tv_day_of_week",
+            "class": "android.widget.TextView",
+            "package": "com.weather.forecast.weatherchannel",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[642,931][685,964]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

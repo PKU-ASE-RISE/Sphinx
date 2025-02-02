@@ -1,0 +1,29 @@
+[
+    {
+        "type": "rule",
+        "order": "sequential",
+        "evaluators": [
+            {
+                "type": "findaction",
+                "match_type": "equal",
+                "match_rules": {
+                    "resource-id": "com.tleapps.simpletipcalculator:id/editTextBill"
+                },
+                "check_type": "equal",
+                "check_rules": {
+                    "message": "56.6"
+                }
+            },
+            {
+                "type": "findelement",
+                "match_type": "equal",
+                "match_rules": {
+                    "resource-id": "com.tleapps.simpletipcalculator:id/textViewTotalToPay",
+                    "text": "$62.26"
+                },
+                "check_type": "equal",
+                "check_rules": {}
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.kb404.money:id/op_sum",
+            "text": "20.00"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.kb404.money:id/op_category",
+            "text": "Other spending"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "20"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

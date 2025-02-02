@@ -1,0 +1,12 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "org.mozilla.firefox:id/new_tab_button",
+            "action_type": "click"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

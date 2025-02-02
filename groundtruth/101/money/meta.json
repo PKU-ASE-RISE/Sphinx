@@ -1,0 +1,123 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Food",
+            "resource-id": "android:id/text1",
+            "class": "android.widget.TextView",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[10,1012][296,1048]"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Food",
+            "resource-id": "android:id/text1",
+            "class": "android.widget.CheckedTextView",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "true",
+            "checked": "true",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[10,320][296,416]"
+        }
+    },
+    {
+        "type": "input",
+        "message": "10",
+        "element": {
+            "index": "4",
+            "text": "0.00",
+            "resource-id": "com.kb404.money:id/new_op_sum",
+            "class": "android.widget.EditText",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[10,1078][336,1174]"
+        }
+    },
+    {
+        "type": "input",
+        "message": "dinner",
+        "element": {
+            "index": "5",
+            "text": "Shop",
+            "resource-id": "com.kb404.money:id/new_op_shop",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[336,1008][662,1104]"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "6",
+            "text": "+",
+            "resource-id": "com.kb404.money:id/add_new_op",
+            "class": "android.widget.Button",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[662,1008][758,1104]"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

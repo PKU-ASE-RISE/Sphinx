@@ -1,0 +1,110 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.ImageButton",
+            "package": "com.thomsonreuters.reuters",
+            "content-desc": "Open Menu",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,48][112,160]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "5",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.FrameLayout",
+            "package": "com.thomsonreuters.reuters",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,567][640,647]",
+            "drawing-order": "8",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "swipe",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.thomsonreuters.reuters:id/activity_settings_flipper",
+            "class": "android.widget.ViewFlipper",
+            "package": "com.thomsonreuters.reuters",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,160][768,1184]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "CONTACT US",
+            "resource-id": "com.thomsonreuters.reuters:id/settings_contact_us",
+            "class": "android.widget.TextView",
+            "package": "com.thomsonreuters.reuters",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[130,850][420,930]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

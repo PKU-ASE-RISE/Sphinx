@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.fotoable.temperature.weather:id/img_add_city"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "click"
+        }
+    }
+]

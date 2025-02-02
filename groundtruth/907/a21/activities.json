@@ -1,0 +1,22 @@
+[
+    [
+        "com.rubenroy.minimaltodo",
+        "com.rubenroy.minimaltodo.MainActivity"
+    ],
+    [
+        "com.rubenroy.minimaltodo",
+        "com.rubenroy.minimaltodo.AddToDoActivity"
+    ],
+    [
+        "com.rubenroy.minimaltodo",
+        "com.rubenroy.minimaltodo.AddToDoActivity"
+    ],
+    [
+        "com.rubenroy.minimaltodo",
+        "com.rubenroy.minimaltodo.MainActivity"
+    ],
+    [
+        "com.rubenroy.minimaltodo",
+        "com.rubenroy.minimaltodo.MainActivity"
+    ]
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.searchwidget.SearchActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.searchwidget.SearchActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.android.chrome",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ]
+]

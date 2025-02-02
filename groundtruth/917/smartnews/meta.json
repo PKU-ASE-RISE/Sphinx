@@ -1,0 +1,85 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "2",
+            "text": "",
+            "resource-id": "jp.gocro.smartnews.android:id/settingButton",
+            "class": "android.widget.ImageButton",
+            "package": "jp.gocro.smartnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[672,48][768,144]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "swipe",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "android:id/content",
+            "class": "android.widget.FrameLayout",
+            "package": "jp.gocro.smartnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,160][768,1184]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "5",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.LinearLayout",
+            "package": "jp.gocro.smartnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,666][768,794]",
+            "drawing-order": "6",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

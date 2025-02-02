@@ -1,0 +1,25 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/et_new_task_name"
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "text": "Delete To-Do Task"
+        },
+        "check_type": "equal",
+        "check_rules": {
+        }
+    }
+]

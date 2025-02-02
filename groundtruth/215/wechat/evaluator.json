@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.tencent.mm:id/mm_alert_ok_btn"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

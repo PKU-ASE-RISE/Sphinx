@@ -1,0 +1,14 @@
+[
+    {
+        "name": "input necessary information",
+        "length": 7,
+        "start_index": 0,
+        "end_index": 6
+    },
+    {
+        "name": "set detail",
+        "length": 3,
+        "start_index": 7,
+        "end_index": 9
+    }
+]

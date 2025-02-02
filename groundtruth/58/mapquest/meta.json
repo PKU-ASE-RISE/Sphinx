@@ -1,0 +1,115 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.mapquest.android.ace:id/search_bar_find_places_button",
+            "class": "android.widget.LinearLayout",
+            "package": "com.mapquest.android.ace",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[118,58][304,146]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "restaurants near me",
+        "element": {
+            "index": "1",
+            "text": "Find a place or category",
+            "resource-id": "com.mapquest.android.ace:id/text_entry",
+            "class": "android.widget.EditText",
+            "package": "com.mapquest.android.ace",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[78,68][602,136]",
+            "drawing-order": "2",
+            "hint": "Find a place or category",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "G",
+            "resource-id": "com.mapquest.android.ace:id/search_bar_result_list_btn",
+            "class": "android.widget.TextView",
+            "package": "com.mapquest.android.ace",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[555,68][655,136]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.LinearLayout",
+            "package": "com.mapquest.android.ace",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,266][768,437]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

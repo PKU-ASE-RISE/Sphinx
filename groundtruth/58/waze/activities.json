@@ -1,0 +1,18 @@
+[
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.navigate.location_preview.LocationPreviewActivity"
+    ]
+]

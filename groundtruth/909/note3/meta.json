@@ -1,0 +1,91 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "2",
+            "text": "",
+            "resource-id": "me.writeily:id/fab_expand_menu_button",
+            "class": "android.widget.ImageButton",
+            "package": "me.writeily",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[588,1012][736,1160]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "0",
+            "text": "",
+            "resource-id": "me.writeily:id/create_note",
+            "class": "android.widget.ImageButton",
+            "package": "me.writeily",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[588,700][736,848]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Test",
+        "element": {
+            "index": "1",
+            "text": "Title",
+            "resource-id": "me.writeily:id/edit_note_title",
+            "class": "android.widget.EditText",
+            "package": "me.writeily",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[144,48][576,164]",
+            "drawing-order": "1",
+            "hint": "Title",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

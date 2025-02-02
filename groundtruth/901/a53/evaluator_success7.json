@@ -1,0 +1,46 @@
+[
+    {
+        "type": "rule",
+        "order": "consecutive",
+        "evaluators": [
+            {
+                "type": "rule",
+                "order": "present",
+                "evaluators": [
+                    {
+                        "type": "findelement",
+                        "match_type": "equal",
+                        "match_rules": {
+                            "resource-id": "com.tleapps.simpletipcalculator:id/editTextBill"
+                        },
+                        "check_type": "equal",
+                        "check_rules": {
+                            "text": "56.6"
+                        }
+                    },
+                    {
+                        "type": "findelement",
+                        "match_type": "equal",
+                        "match_rules": {
+                            "resource-id": "com.tleapps.simpletipcalculator:id/editTextTip"
+                        },
+                        "check_type": "equal",
+                        "check_rules": {
+                            "text": "10"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "findaction",
+                "match_type": "equal",
+                "match_rules": {
+                    "action_type": "click",
+                    "resource-id": "com.tleapps.simpletipcalculator:id/buttonCalculate"
+                },
+                "check_type": "equal",
+                "check_rules": {}
+            }
+        ]
+    }
+]

@@ -1,0 +1,2494 @@
+[
+	{
+		"question": "I want to set a timer to remind me to take a break in 10 minutes. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Tool",
+			"B": "Booking",
+			"C": "Business",
+			"D": "Entertainment"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to set a timer for 10 minutes. Which of the following timer satisfies my need?",
+		"options": {
+			"A": "Set a timer for 5 minutes",
+			"B": "Set a timer for 15 minutes",
+			"C": "Set a timer for 10 minutes",
+			"D": "Set a timer for 20 minutes"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to set a timer for 10 minutes. Which feature in the app helps me do this?",
+		"options": {
+			"A": "Alarm section",
+			"B": "Stopwatch section",
+			"C": "Timer section",
+			"D": "World Clock section"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I need to schedule a meeting for 3 PM tomorrow. Which timer set meet my need?",
+		"options": {
+			"A": "Set an alarm for 2 PM",
+			"B": "Set an alarm for 3 PM tomorrow",
+			"C": "Set an alarm for 3 PM today",
+			"D": "Set an alarm for 4 PM tomorrow"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to use the stopwatch feature for tracking my workout. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Booking",
+			"C": "E-commerce",
+			"D": "Clock"
+		},
+		"ground_truth": "D",
+		"question_type": "app_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I need to see the current time in Tokyo. Which time is the time I want to check?",
+		"options": {
+			"A": "Tokyo time",
+			"B": "Chicago time",
+			"C": "Beijing time",
+			"D": "London time"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["DeskClock", "Timer"],
+		"app_cateory": "Tool, Time",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to change the wind speed unit in my weather app. Which app should I use?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Web Browser",
+			"C": "Weather",
+			"D": "Entertainment"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to change the unit of wind speed to km/h , which one should I pick to change the unit?",
+		"options": {
+			"A": "m/s",
+			"B": "km/h",
+			"C": "ft/s",
+			"D": "mph"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to add a weather widget to my home screen. Which app would be best for this purpose?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Widgets",
+			"C": "Weather",
+			"D": "Entertainment"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to check the weather forecast for the next 7 days. Which of the following option should I check?",
+		"options": {
+			"A": "View the current weather conditions",
+			"B": "View the hourly forecast",
+			"C": " I want to check the weather forecast for the next 7 days. Which of the following option should I check?A. View the current weather conditionsB. View the hourly forecastC.View the weather radar",
+			"D": "View the 7-day forecast"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to check the current temperature and weather conditions. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Travel",
+			"B": "Shopping",
+			"C": "Productivity",
+			"D": "Weather"
+		},
+		"ground_truth": "D",
+		"question_type": "app_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to know the weather of Chicago. Which of the following options satisfies my need?",
+		"options": {
+			"A": "Chicago weather",
+			"B": "Shanghai weather",
+			"C": "Atlanta weather",
+			"D": "Japan weather"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Weather", "WeatherForecast"],
+		"app_cateory": "Weather",
+		"author": "Cathy"
+	},
+	{
+		"question": " I want to check my browser information. Which of the following apps would be most useful?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Web Browser",
+			"C": "E-commerce",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to search for flight ticket from Atlanta to Chicago. Which option should I search?",
+		"options": {
+			"A": "Flight from Chicago to Atlanta",
+			"B": "Flight from Los Angeles to Chicago",
+			"C": "Flight from Pittsburgh to Los Angeles",
+			"D": "Flight from Atlanta to Chicago"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to download a picture from the internet using browser widget. Which of the following apps should I use?",
+		"options": {
+			"A": "Widget search bar",
+			"B": "Map and Navigation",
+			"C": "Web Browser",
+			"D": "Entertainment"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": " I want to set DuckDuckGo as my default search engine in Firefox. Which of the following browser should I set?",
+		"options": {
+			"A": "Google Chrome",
+			"B": "DuckDuckGo",
+			"C": "Firefox",
+			"D": "Edge"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to use a browser that prioritizes privacy and blocks trackers. Which of the following apps best suits my needs?",
+		"options": {
+			"A": "Chrome",
+			"B": "DuckDuckGo",
+			"C": "Edge",
+			"D": "Firefox"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to open the link for \"Federal Fund Rate\", which website should I click?",
+		"options": {
+			"A": "Federal Bank",
+			"B": "The Farmer's Dog",
+			"C": "Pet Smart",
+			"D": "Federal Funds Rate"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Chrome", "Firefox", "Edge", "Duckduckgo"],
+		"app_cateory": "Web Browser, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to find the nearest gas station. Which app would be most suitable?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Travel and Local",
+			"C": "Food and Drink",
+			"D": "Maps and Navigation"
+		},
+		"ground_truth": "D",
+		"question_type": "app_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to get driving directions to McDonald using Maps. Which of the following search fit my goal?",
+		"options": {
+			"A": "McDonald",
+			"B": "Costco",
+			"C": "Shell",
+			"D": "Whole Foods"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to use a navigation app that provides real-time traffic updates and alerts. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "News",
+			"B": "Maps and Navigation",
+			"C": "Social Media",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to check gas station near me using Navigation app. Which one should I search?",
+		"options": {
+			"A": "Dog Park",
+			"B": "Restaurant",
+			"C": "Gas Station",
+			"D": "Grocery Store"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to report road hazards and traffic conditions while driving. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Music & Audio",
+			"B": "Lifestyle",
+			"C": "Maps and Navigation",
+			"D": "Weather"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to search the library near me. Which word should I put in search bar?",
+		"options": {
+			"A": "Library",
+			"B": "Grocery Store",
+			"C": "University",
+			"D": "Desert"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Herewego", "Waze", "GoogleMap"],
+		"app_cateory": "Maps and Navigation",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to reserve a table at a restaurant. Which app should I choose?",
+		"options": {
+			"A": "Food and Drink",
+			"B": "Maps and Navigation",
+			"C": "E-commerce",
+			"D": "Communication"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to reserve a Thai food restaurant. Which option should I click?",
+		"options": {
+			"A": "American Food",
+			"B": "Thai Food",
+			"C": "Chinese Food",
+			"D": "Korean Food"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": " I want to cancel my restaurant reservation. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Maps and Navigation",
+			"C": "Food and Drink",
+			"D": "Communication"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to have some milk tea and check on the app. What should I look for in the app?",
+		"options": {
+			"A": "Juice",
+			"B": "Birthday Cake",
+			"C": "Hamburger",
+			"D": "Milk Tea"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to discover new places to eat based on user reviews. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Finance",
+			"B": "Food and Drink",
+			"C": "Music",
+			"D": "Shopping"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": " I need to find out if a table is available at 7 PM for dinner tonight using OpenTable. What time should I check for availability?",
+		"options": {
+			"A": "Check availability for 5 PM",
+			"B": "Check availability for 6 PM",
+			"C": "Check availability for 7 PM",
+			"D": "Check availability for 8 PM"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "OpenTable"],
+		"app_cateory": "Food and Drink",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to check the price of a ride. Which app would be best?",
+		"options": {
+			"A": "Communications",
+			"B": "Shopping",
+			"C": "Travel and Local",
+			"D": "Entertainment"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to book a ride for 10 AM meeting. What time should I check for availability?",
+		"options": {
+			"A": "Reserve a ride for 10 AM",
+			"B": "Reserve a ride for 6 PM",
+			"C": "Reserve a ride for 7 AM",
+			"D": "Reserve a ride for 8 PM"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to see real-time updates of my ride's location. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Communication",
+			"B": "Travel and Local",
+			"C": "Music",
+			"D": "Shopping"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I have a movie tonight and making reservation. What should I put for destination for reservation?",
+		"options": {
+			"A": "AMC Theater",
+			"B": "Costco",
+			"C": "Target",
+			"D": "Walmart"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to schedule a ride in advance for an important meeting. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Productivity",
+			"B": "Navigation",
+			"C": "Ride-sharing",
+			"D": "Photography"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I need to choose Share ride for this ride. What should I chosse for car type?",
+		"options": {
+			"A": "Comfort ride",
+			"B": "Share Ride",
+			"C": "Taxi",
+			"D": "Luxury Ride"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Uber", "Lyft"],
+		"app_cateory": "Travel and Local",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to change the privacy setting of my social media account to make my posts visible for three days. Which app is best for this task?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Communication",
+			"C": "Shopping",
+			"D": "Travel and Local"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I need to change my post to three day visible. Which option is the right one to choose?",
+		"options": {
+			"A": "The whole time",
+			"B": "Half a year",
+			"C": "One month",
+			"D": "Three days"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": " I want to share photos and videos with my friends and followers. Which of the following app categories best suits my needs?",
+		"options": {
+			"A": "Navigation",
+			"B": "Music",
+			"C": "Social Media",
+			"D": "Shopping"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I need to translate a message I received in a foreign language. Which of the following options satisfies my need?",
+		"options": {
+			"A": "Delete the message",
+			"B": "Forward the message",
+			"C": "Translate the message",
+			"D": "Mute the chat"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to join group chats and share moments with my contacts. Which type of app should I use?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Messaging",
+			"C": "E-commerce",
+			"D": "Games"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to search for \"Large size\" in chat history. What word should I input in the history search bar?",
+		"options": {
+			"A": "\"Large size\"",
+			"B": "\"Medium size\"",
+			"C": "\"LARGE SIZE\"",
+			"D": "\"Small size\""
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["QQ", "Wechat", "Instagram"],
+		"app_cateory": "Social Media, Communication",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to show my shopping membership card barcode at the store. Which of the following app categories can achieve the goal?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Shopping",
+			"C": "Music",
+			"D": "Maps and Navigation"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to see the price of frozen pizza, what should I search in the search bar?",
+		"options": {
+			"A": "\"Pizza ingredients\"",
+			"B": "\"Frozen pizza\"",
+			"C": "\"Fresh produce\"",
+			"D": "\"Pizza recipe\""
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to find deals and use digital coupons for my grocery shopping. Which type of app should I use?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Finance",
+			"C": "Shopping",
+			"D": "Social Media"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to find cleaning supplies. What should I search in the search bar?",
+		"options": {
+			"A": "\"Kitchen appliances\"",
+			"B": "\"Cleaning supplies\"",
+			"C": "\"Gardening tools\"",
+			"D": "\"Furniture\""
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "To create and manage a grocery shopping list, which category does the app fall under?",
+		"options": {
+			"A": "Travel",
+			"B": "Productivity",
+			"C": "Photography",
+			"D": "Shopping"
+		},
+		"ground_truth": "D",
+		"question_type": "app_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to purchase ice cream to pick up. What should I type in the search bar?",
+		"options": {
+			"A": "Dairy",
+			"B": "Ice cream",
+			"C": "Frozen meals",
+			"D": "Bakery"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Target", "Kroger"],
+		"app_cateory": "Shopping",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to create and manage my resume for job applications. Which app category should I choose?",
+		"options": {
+			"A": "Job Search",
+			"B": "Health & Fitness",
+			"C": "E-commerce",
+			"D": "Games"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to find part-time jobs. What should I put in the filter?",
+		"options": {
+			"A": "Full-time jobs",
+			"B": "Internship jobs",
+			"C": "Contract jobs",
+			"D": "Part-time jobs"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to connect with professionals and expand my network. Which app category should I use?",
+		"options": {
+			"A": "Health & Fitness",
+			"B": "Business",
+			"C": "Travel and Local",
+			"D": "Games"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to search for remote jobs using the Indeed app. What should I do put in the filter?",
+		"options": {
+			"A": "Remote jobs",
+			"B": "On-site jobs",
+			"C": "Hybrid jobs",
+			"D": "Work in the Office"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to follow companies and stay updated on industry news. Which app category is appropriate for this?",
+		"options": {
+			"A": "Travel",
+			"B": "Productivity",
+			"C": "Business",
+			"D": "Photography"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": "I want to search for jobs with a salary over $60,000. What should I put in the filter?",
+		"options": {
+			"A": "Under $40,000",
+			"B": "$40,000 - $50,000",
+			"C": "$50,000 - $60,000",
+			"D": "Over $60,000"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Linkedin", "Indeed", "ZipRecruiter"],
+		"app_cateory": "Job Search, Business",
+		"author": "Cathy"
+	},
+	{
+		"question": " I want to search for the top-rated Italian restaurants in New York City. which feature helps me find top-rated restaurants?",
+		"options": {
+			"A": "Review section",
+			"B": "Search bar",
+			"C": "Notification settings",
+			"D": "Profile section"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "Which restaurant satisfies the requirement for a top-rated Italian restaurant in New York City?",
+		"options": {
+			"A": "Italian restaurant in San Francisco",
+			"B": "Italian restaurant in New York City",
+			"C": "Mexican restaurant in New York City",
+			"D": "Chinese restaurant in Los Angeles"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "In the app, where can I find the filter options for rating and price?",
+		"options": {
+			"A": "Home page",
+			"B": "Search results page",
+			"C": "Profile page",
+			"D": "Settings"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "A restaurant with which of the following characteristics would meet the criteria of having a rating above 4 stars and a price range of $$$$?",
+		"options": {
+			"A": "3 stars and $",
+			"B": "5 stars and $$$",
+			"C": "4.5 stars and $$$$",
+			"D": "4 stars and $$"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to Order a takeout from McDonald's with a single apple pie to 6100 Main St, if it's not delivery time now, set it for tomorrow at 6:30 am. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Pet care",
+			"B": "Booking",
+			"C": "E-commerce",
+			"D": "Food"
+		},
+		"ground_truth": "D",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to Order a takeout from McDonald's with a single apple pie to 6100 Main St, if it's not delivery time now, set it for tomorrow at 6:30am. How many apple pie should I order?",
+		"options": {
+			"A": "10",
+			"B": "2",
+			"C": "1",
+			"D": "5"
+		},
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"ground_truth": "C",
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": " I want to add a 7-Eleven restaurant to my favorites/collection, how do I add a restaurant to my favorites?",
+		"options": {
+			"A": "Click the 'Add to Favorites' button",
+			"B": "Write a review",
+			"C": "Share the restaurant",
+			"D": "Enable notifications"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "What action satisfies the requirement to add 7-Eleven to my favorites?",
+		"options": {
+			"A": "Write a review for 7-Eleven",
+			"B": "Share the location of 7-Eleven",
+			"C": "Enable notifications for 7-Eleven",
+			"D": "Click the 'Add to Favorites' button on 7-Eleven"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Yelp", "DoorDash", "Ubereat"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to search for posts about \"The Legend of Zelda\" in the past year. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "News",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "Which post meets the need for information about \"The Legend of Zelda\" from the past year?",
+		"options": {
+			"A": "Post about \"The Legend of Zelda\" from 3 years ago",
+			"B": "Post about \"The Legend of Zelda\" in the past year",
+			"C": "Post about \"The Legend of Zelda\" in the last month",
+			"D": "Post about \"The Legend of Zelda\" in the past decade"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "To create or add a post discussing \"the implications of recent advances in artificial intelligence,\" which app category should you use?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "News",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to create/add a post about \"the implications of recent advances in artificial intelligence\". What is the topic of the post?",
+		"options": {
+			"A": "Cooking",
+			"B": "Travel",
+			"C": "Recent advances in artificial intelligence",
+			"D": "Technology"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to find a post related to 'technology', and upvote 2 posts. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "News",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "When looking for posts related to 'technology,' which options should you consider?",
+		"options": {
+			"A": "Posts about cooking",
+			"B": "Posts about travel",
+			"C": "Posts about technology",
+			"D": "Posts about sports"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Reddit", "Quora"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to find a beginner's course on math skills. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Social networking",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "Which course is suitable for someone looking for a beginner's course in math skills?",
+		"options": {
+			"A": "Advanced calculus",
+			"B": "Beginner's algebra",
+			"C": "Intermediate Geometry",
+			"D": "Expert trigonometry"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to resume data science course I was previously taking. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Social networking",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "To Resume a data science course that you have already started, which action should you take?",
+		"options": {
+			"A": "Start a new course",
+			"B": "Resume the data Science course",
+			"C": "Complete a course",
+			"D": "Browse courses"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to log out of my math course account. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Social networking",
+			"D": "Finance"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "If you want to log out of your account, which option would you select?",
+		"options": {
+			"A": "Log out",
+			"B": "Log in",
+			"C": "Change password",
+			"D": "Update profile"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["edX"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to create a pet profile for a cat named Cici. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "Pet care",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Chewy", "Rover", "VitusvET", "Tractor Supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "For creating a pet profile for a cat named Cici, which profile is appropriate?",
+		"options": {
+			"A": "Pet profile for a dog named Max",
+			"B": "Pet profile for a cat named Cici",
+			"C": "Pet profile for a cat named Bella",
+			"D": "Pet profile for a rabbit named Cici"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Chewy", "Rover", "VitusvET", "Tractor Supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "category would you explore to find the latest dog treat under $50?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "Pet care",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Chewy", "MyPurina", "Tractor supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to find the newest dog treat under $50. What price range am I interested in?",
+		"options": {
+			"A": "Under $20",
+			"B": "Under $30",
+			"C": "Under $50",
+			"D": "Under $100"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Chewy", "MyPurina", "Tractor supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to find content related to dog healthiness/training. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "Pet care",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Chewy,Rover", "MyPurina"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "To obtain information on dog healthiness/training, which type of content should you look for?",
+		"options": {
+			"A": "Content on cat nutrition",
+			"B": "Content on dog toys",
+			"C": "Content on dog healthiness/training",
+			"D": "Content on bird training"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Chewy,Rover", "MyPurina"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to connect with a vet for making an appointment. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social forums",
+			"B": "Shopping",
+			"C": "Pet care",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Chewy", "vitusvet", "tracor supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "To address Cici's skin problem, what is the correct action to take in the app?",
+		"options": {
+			"A": "Book a general consultation appointment",
+			"B": "Connect with a vet and submit an appointment specifically for a skin problem",
+			"C": "Update Cici's health records",
+			"D": "Schedule a grooming session"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Chewy", "vitusvet", "tracor supply"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to plan a route from Columbia University to New York University Stern departing tomorrow at 11:00 am. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Public transportation",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "Which route satisfies the need to travel from Columbia University to New York University Stern departing tomorrow at 11:00 am?",
+		"options": {
+			"A": "Route from NYU to Columbia University",
+			"B": "Route from Columbia University to NYU Stern",
+			"C": "Route from Columbia University to Central Park",
+			"D": "Route from Times Square to NYU Stern"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to add a favorite route from University of Southern California to University of California, Los Angeles if any problem occurs, choose any route. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Public transportation",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to add a favorite route from University of Southern California to University of California, Los Angeles if any problem occurs, choose any route. What is my starting point?",
+		"options": {
+			"A": "University of California, Los Angeles",
+			"B": "University of Southern California",
+			"C": "Times Square",
+			"D": "Central Park"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to set University of San Francisco as home and find a route to the nearest airport except bus. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Education",
+			"B": "Shopping",
+			"C": "Public transportation",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "Which route satisfies the need to travel from University of San Francisco to the nearest airport excluding bus?",
+		"options": {
+			"A": "Route including bus",
+			"B": "Route excluding bus",
+			"C": "Route including train",
+			"D": "Route including ferry"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Transit", "Moovit", "CityMapper,"],
+		"app_cateory": null,
+		"author": "Jun"
+	},
+	{
+		"question": "I want to create a reminder to buy milk at 8 PM. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social Media",
+			"B": "Weather",
+			"C": "Calendar and Reminders",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Todoist", "TickTick,"],
+		"app_cateory": "TODO list",
+		"author": "Charles"
+	},
+	{
+		"question": "What should I create to remind me to buy milk at 8 PM?",
+		"options": {
+			"A": "A tag",
+			"B": "A task",
+			"C": "A project",
+			"D": "A goal"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Todoist", "TickTick,"],
+		"app_cateory": "TODO list",
+		"author": "Charles"
+	},
+	{
+		"question": "I want to create a list of my work goals and group my tasks into a project titled 'Work'. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Entertainment",
+			"B": "Task Management",
+			"C": "Finance",
+			"D": "Social Media"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Todoist", "TickTick,"],
+		"app_cateory": "TODO list",
+		"author": "Charles"
+	},
+	{
+		"question": "What project should I create to group my tasks and work goals?",
+		"options": {
+			"A": "Home",
+			"B": "Personal",
+			"C": "Work",
+			"D": "Travel"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Todoist", "TickTick,"],
+		"app_cateory": "TODO list",
+		"author": "Charles"
+	},
+	{
+		"question": "I want to log my new weight today at 160 pounds. Which of the following app categories best suits my need?",
+		"options": {
+			"A": "Entertainment",
+			"B": "Finance",
+			"C": "Health & Fitness",
+			"D": "News"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "What should I log to record my new weight today at 160 pounds?",
+		"options": {
+			"A": "150 pounds",
+			"B": "160 pounds",
+			"C": "170 pounds",
+			"D": "180 pounds"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "I want to log a breakfast of oatmeal with bananas and almonds. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Shopping",
+			"B": "Social Media",
+			"C": "Food & Drink",
+			"D": "Finance"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "What should I log for my breakfast today?",
+		"options": {
+			"A": "Pancakes with syrup",
+			"B": "Oatmeal with bananas and almonds",
+			"C": "Scrambled eggs",
+			"D": "Toast with butter"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "I want to log a glass of water to meet my daily hydration goals. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Finance",
+			"C": "Health & Fitness",
+			"D": "Entertainment"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "What should I log to meet my daily hydration goals?",
+		"options": {
+			"A": "A glass of juice",
+			"B": "A glass of water",
+			"C": "A cup of coffee",
+			"D": "A can of soda"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["MyNetDiary", "FatSecret", "MyFitnessPal", " "],
+		"app_cateory": "Fitness Tracker",
+		"author": "Charles"
+	},
+	{
+		"question": "I want to create an expense for today. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Accounting",
+			"C": "Health & Fitness",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to create an expense for today,which item should I choose?",
+		"options": {
+			"A": "Dinner 10$",
+			"B": "A Pencil ",
+			"C": "Apple",
+			"D": "Two Dogs"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to modify an expense record. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Accounting",
+			"C": "Health & Fitness",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to modify the expense record, which action should l take?",
+		"options": {
+			"A": "Open an expense",
+			"B": "Change the expense amount to 20$",
+			"C": "Click Save button",
+			"D": "Go Back"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to delete an existing record. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Accounting",
+			"C": "Health & Fitness",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "i want to delete an existing record, what should l do?",
+		"options": {
+			"A": "Open an item",
+			"B": "Change the expense amount to 20",
+			"C": "Move an expense to trash",
+			"D": "Go Back"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to search for expense records in the Other category. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Accounting",
+			"C": "Health & Fitness",
+			"D": "Entertainment"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to search for expense records in the other category, which text should I type in the search box?",
+		"options": {
+			"A": "Dogs",
+			"B": "Apple",
+			"C": "Dinner",
+			"D": "Other"
+		},
+		"ground_truth": "D",
+		"question_type": "intention_level",
+		"app_name": ["Money,HomeBudget,"],
+		"app_cateory": "Accounting",
+		"author": "xmq"
+	},
+	{
+		"question": "I want to look for a hotel stay for 1 adult and 1 12-year-old child in Paris. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Social Media",
+			"C": "Booking",
+			"D": "Fitness"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "look for a hotel stay for 1 adult and 1 12-year-old child in Paris. Which of the following search criteria meets my requirements?",
+		"options": {
+			"A": "2 adults in Rome",
+			"B": "1 adult and 1 child in Paris",
+			"C": "1 adult in Paris",
+			"D": "2 children in Paris"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to book a one-way flight from Paris to New York for 1 adult. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Navigation",
+			"B": "Booking",
+			"C": "Entertainment",
+			"D": "Productivity"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "book a one-way flight from Paris to New York for 1 adult. Which of the following flight options satisfies my need?",
+		"options": {
+			"A": "Round-trip flight from Paris to New York",
+			"B": "One-way flight from New York to Paris",
+			"C": "One-way flight from Paris to New York",
+			"D": "Round-trip flight from New York to London"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to find accommodation for a family vacation in Paris. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Travel",
+			"B": "Booking",
+			"C": "Maps",
+			"D": "Social Networking"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I'm looking for a hotel stay in Paris for a family. Which option meets my requirements?",
+		"options": {
+			"A": "Hotel in London for 2 adults",
+			"B": "Apartment in Paris for 4 adults",
+			"C": "Hotel in Paris for 1 adult and 1 child",
+			"D": "Hostel in Paris for 2 adults"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to compare prices for flights between two cities. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Finance",
+			"B": "Shopping",
+			"C": "Booking",
+			"D": "News"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to book a one-way flight for an adult. Which option satisfies this requirement?",
+		"options": {
+			"A": "Round-trip flight for 2 adults",
+			"B": "One-way flight for 1 adult",
+			"C": "One-way flight for 1 child",
+			"D": "Round-trip flight for 1 adult"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to reserve a room for my upcoming business trip. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Productivity",
+			"B": "Business",
+			"C": "Booking",
+			"D": "Communication"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to find a hotel in Paris for my family. Which search criteria should I use?",
+		"options": {
+			"A": "Paris, 1 room, 1 adult, 1 child",
+			"B": "London, 2 rooms, 2 adults",
+			"C": "Paris, 2 rooms, 2 adults",
+			"D": "New York, 1 room, 1 adult"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Agoda", "Booking", "Trivago"],
+		"app_cateory": "Booking",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to add a song to my liked/library and then delete it. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social Media",
+			"B": "Music",
+			"C": "Shopping",
+			"D": "News"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to add the first song after searching for 'the most popular song' to my liked/library, and then delete it. Which action sequence fulfills this task?",
+		"options": {
+			"A": "Search, add to library, play, delete from library",
+			"B": "Search, add to playlist, delete from playlist",
+			"C": "Search, add to library, delete from library",
+			"D": "Search, play, add to library"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to create a playlist and add a specific song to it. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Productivity",
+			"B": "Entertainment",
+			"C": "Music",
+			"D": "Video"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to create a playlist titled 'good vibes' and add the first song of the 'good vibes' search result to the list. Which of the following actions meets this requirement?",
+		"options": {
+			"A": "Create 'chill vibes' playlist and add a random song",
+			"B": "Create 'good vibes' playlist and add the top 'good vibes' song",
+			"C": "Create 'happy days' playlist and add the first 'good vibes' song",
+			"D": "Search for 'good vibes' and play the first song"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for a particular type of music and play the first result. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Podcasts",
+			"B": "Audiobooks",
+			"C": "Music",
+			"D": "Radio"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for 'chilled beats' and play the first result. Which action satisfies this request?",
+		"options": {
+			"A": "Search for 'chilled beats' and add to playlist",
+			"B": "Search for 'chill music' and play the second result",
+			"C": "Search for 'chilled beats' and play the first result",
+			"D": "Search for 'beats' and shuffle play"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to find and play an album by a specific artist. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Music",
+			"B": "Books",
+			"C": "Movies",
+			"D": "Games"
+		},
+		"ground_truth": "A",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for 'the weeknd' and play his first album in the list. Which of the following actions fulfills this request?",
+		"options": {
+			"A": "Search for 'the weekend' and play a random song",
+			"B": "Search for 'the weeknd' and play his latest single",
+			"C": "Search for 'the weeknd' and play his first album in the list",
+			"D": "Search for 'weeknd' and add all albums to a playlist"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to manage my music library by adding and removing songs. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "File Management",
+			"B": "Music",
+			"C": "Cloud Storage",
+			"D": "Photos"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to add a popular song to my library and then remove it. Which sequence of actions meets this requirement?",
+		"options": {
+			"A": "Search for popular songs, add third song to library, remove it",
+			"B": "Search for 'most popular song', add first result to library, remove it",
+			"C": "Add a random song to library, then delete it",
+			"D": "Search for 'top hits', add all songs to library, remove one"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to create a customized playlist for my workout. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Fitness",
+			"B": "Music",
+			"C": "Health",
+			"D": "Productivity"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to create a new playlist called 'good vibes' and add a relevant song to it. What should I do?",
+		"options": {
+			"A": "Create 'good vibes' playlist, search 'good vibes', add first song",
+			"B": "Create 'great vibes' playlist, add any song",
+			"C": "Search 'good vibes', create playlist with results",
+			"D": "Create empty 'good vibes' playlist"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to discover new music based on my listening history. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social Media",
+			"B": "News",
+			"C": "Music",
+			"D": "Lifestyle"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to find and play relaxing music. Which search term and action should I use?",
+		"options": {
+			"A": "Search 'party music' and play first result",
+			"B": "Search 'chilled beats' and play first result",
+			"C": "Search 'rock music' and play random song",
+			"D": "Search 'classical music' and add to playlist"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to listen to a specific genre of music. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Podcasts",
+			"B": "Audiobooks",
+			"C": "Music",
+			"D": "Radio"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to listen to an album by a specific artist. What steps should I take?",
+		"options": {
+			"A": "Search for 'top hits' and play",
+			"B": "Search for 'the weeknd', play latest single",
+			"C": "Search for 'the weeknd', play first album in list",
+			"D": "Search for 'popular artists' and select random album"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to share a song I like with my friends. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Messaging",
+			"B": "Social Media",
+			"C": "Music",
+			"D": "Email"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to discover new music similar to my favorite songs. What feature should I use?",
+		"options": {
+			"A": "Create a new playlist",
+			"B": "Search for specific song titles",
+			"C": "Use the app's recommendation or radio feature",
+			"D": "Browse top charts"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to find and play music without ads. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Video Streaming",
+			"B": "Music",
+			"C": "Radio",
+			"D": "Podcasts"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to organize my music library. What actions should I take?",
+		"options": {
+			"A": "Delete all playlists",
+			"B": "Add songs to library and create playlists",
+			"C": "Only listen to recommended songs",
+			"D": "Share all my music on social media"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Youtube Music", "Spotify", "Pandora"],
+		"app_cateory": "Music",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for restaurants near my current location. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Food Delivery",
+			"B": "Social Media",
+			"C": "Maps",
+			"D": "Weather"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for 'restaurants near me' and click on the first search result. Which action satisfies this request?",
+		"options": {
+			"A": "Search for 'cafes near me' and view the third result",
+			"B": "Search for 'restaurants near me' and click the first result",
+			"C": "Search for 'restaurants in Paris' and view all results",
+			"D": "Search for 'fast food near me' and get directions to the second result"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to change the map view to see satellite imagery. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Photography",
+			"B": "Navigation",
+			"C": "Maps",
+			"D": "Travel"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to change the map type to satellite view. Which of the following actions meets this requirement?",
+		"options": {
+			"A": "Change map type to terrain view",
+			"B": "Change map type to traffic view",
+			"C": "Change map type to satellite view",
+			"D": "Change map type to street view"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to save a specific location to my favorites list for easy access later. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Productivity",
+			"B": "Social Media",
+			"C": "Maps",
+			"D": "Shopping"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search and save McDonald's location to the favorites list. Which sequence of actions fulfills this task?",
+		"options": {
+			"A": "Search for Burger King and save to favorites",
+			"B": "Search for McDonald's and get directions",
+			"C": "Search for McDonald's and save to favorites",
+			"D": "Search for fast food restaurants and save the first result"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to find the quickest route to my destination with real-time traffic updates. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Weather",
+			"B": "Maps",
+			"C": "News",
+			"D": "Calendar"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to find the fastest route to my destination. What feature should I use?",
+		"options": {
+			"A": "Check weather conditions",
+			"B": "Use the route planner with traffic information",
+			"C": "Look at satellite imagery",
+			"D": "Browse photos of the destination"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to explore different map layers such as terrain and traffic. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Photography",
+			"B": "Maps",
+			"C": "Education",
+			"D": "Travel"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to explore different map views. Which action should I take?",
+		"options": {
+			"A": "Change between standard, satellite, and terrain views",
+			"B": "Zoom in and out repeatedly",
+			"C": "Rotate the map 360 degrees",
+			"D": "Switch to a different mapping app"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to measure the distance between two locations. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Fitness",
+			"B": "Maps",
+			"C": "Calculator",
+			"D": "Weather"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to measure the distance between two cities. What tool should I use?",
+		"options": {
+			"A": "Weather radar",
+			"B": "Distance measurement tool",
+			"C": "Restaurant finder",
+			"D": "Traffic report"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to find and save multiple stops for a road trip. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Travel",
+			"B": "Maps",
+			"C": "Notes",
+			"D": "Social Media"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to plan a multi-stop road trip. What feature would be most helpful?",
+		"options": {
+			"A": "Adding multiple destinations to a single route",
+			"B": "Checking gas prices along the route",
+			"C": "Viewing street-level imagery",
+			"D": "Sharing my location with friends"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to share my current location with a friend. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Messaging",
+			"B": "Social Media",
+			"C": "Maps",
+			"D": "Weather"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to share my current location with a friend. What action should I take?",
+		"options": {
+			"A": "Send a text message with my address",
+			"B": "Use the app's location sharing feature",
+			"C": "Take a screenshot of the map",
+			"D": "Call my friend and describe my surroundings"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Google Maps", "Mapquest", "Waze"],
+		"app_cateory": "Maps",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to scan a barcode of a photo in my gallery. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Camera",
+			"B": "Photo Editor",
+			"C": "Barcode Scanner",
+			"D": "Social Media"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["QR & Barcode Reader", "Barcode Scanner", "QR Code Scanner"],
+		"app_cateory": "Barcode Scanner",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to scan a barcode of a photo in the gallery. Which action should I take?",
+		"options": {
+			"A": "Open camera and scan a physical barcode",
+			"B": "Select a photo from the gallery and scan its barcode",
+			"C": "Search for barcode information online",
+			"D": "Create a new barcode"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["QR & Barcode Reader", "Barcode Scanner", "QR Code Scanner"],
+		"app_cateory": "Barcode Scanner",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to translate the user input. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Dictionary",
+			"B": "Translator",
+			"C": "Messaging",
+			"D": "Social Media"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["fedict", "EC1", "EC2"],
+		"app_cateory": "Translator",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to translate the user input. What action should I take?",
+		"options": {
+			"A": "Copy the text to clipboard",
+			"B": "Share the text on social media",
+			"C": "Enter the text into the translation field",
+			"D": "Save the text as a note"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["fedict", "EC1", "EC2"],
+		"app_cateory": "Translator",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to delete a download file. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Web Browser",
+			"B": "File Manager",
+			"C": "Downloads",
+			"D": "Cleaner"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to delete a download file. What action should I take?",
+		"options": {
+			"A": "Move the file to a different folder",
+			"B": "Rename the file",
+			"C": "Select the download file and delete it",
+			"D": "Share the file with others"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to uninstall an app from my device. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "App Store",
+			"B": "Settings",
+			"C": "File Manager",
+			"D": "System Cleaner"
+		},
+		"ground_truth": "C",
+		"question_type": "app_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to uninstall an app. What step should I take in the file manager?",
+		"options": {
+			"A": "Open the app and look for uninstall option",
+			"B": "Locate the app in the file manager and select uninstall",
+			"C": "Update the app to the latest version",
+			"D": "Create a backup of the app"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to open the file analyzer. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Antivirus",
+			"B": "File Manager",
+			"C": "System Monitor",
+			"D": "Storage Cleaner"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to open the file analyzer. What should I do in the file manager?",
+		"options": {
+			"A": "Sort files by size",
+			"B": "Search for specific file types",
+			"C": "Locate and select the file analyzer option",
+			"D": "Compress all files"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["fm1", "fm2", "fm3", "fm4"],
+		"app_cateory": "File Manager",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to set a new wallpaper on my device. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Gallery",
+			"B": "Wallpaper",
+			"C": "Themes",
+			"D": "File Manager"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["wallpaper1", "wallpaper2", "wallpaper3"],
+		"app_cateory": "Wallpaper",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to set wallpaper. What action should I take?",
+		"options": {
+			"A": "Take a new photo",
+			"B": "Edit an existing image",
+			"C": "Select an image and apply it as wallpaper",
+			"D": "Download new wallpapers"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["wallpaper1", "wallpaper2", "wallpaper3"],
+		"app_cateory": "Wallpaper",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to add a location and display its weather. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Maps",
+			"B": "Weather",
+			"C": "Travel",
+			"D": "News"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["weather1", "weather2", "weather3"],
+		"app_cateory": "Weather",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to add a location Paris and display the weather. What steps should I take?",
+		"options": {
+			"A": "Search for Paris news",
+			"B": "Find Paris on a map",
+			"C": "Add Paris as a new location and view its weather",
+			"D": "Book a flight to Paris"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["weather1", "weather2", "weather3"],
+		"app_cateory": "Weather",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to view the weather for a specific day. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Calendar",
+			"B": "Weather",
+			"C": "Planner",
+			"D": "Reminder"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["weather1", "weather2", "weather3"],
+		"app_cateory": "Weather",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to view Saturday's weather. What action should I take in the weather app?",
+		"options": {
+			"A": "Check today's forecast",
+			"B": "View the weekly forecast and find Saturday",
+			"C": "Set a weather alert for Saturday",
+			"D": "Compare Saturday's weather with Sunday's"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["weather1", "weather2", "weather3"],
+		"app_cateory": "Weather",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to share a photo with someone. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Gallery",
+			"B": "File Share",
+			"C": "Social Media",
+			"D": "Cloud Storage"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["fs1", "fs2", "fs3"],
+		"app_cateory": "File Share",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to share a photo. What step should I take?",
+		"options": {
+			"A": "Edit the photo",
+			"B": "Print the photo",
+			"C": "Select the photo and use the share function",
+			"D": "Delete the photo"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["fs1", "fs2", "fs3"],
+		"app_cateory": "File Share",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search for a product, select the best seller, and add it to my cart. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Search Engine",
+			"B": "Shopping",
+			"C": "Price Comparison",
+			"D": "Review App"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["Amazon", "SHEIN", "meesho"],
+		"app_cateory": "Shopping",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to search 'skirt', select the best seller, and add to cart. What sequence of actions should I take?",
+		"options": {
+			"A": "Search 'skirt', sort by price, add cheapest to cart",
+			"B": "Search 'skirt', select best seller, add to cart",
+			"C": "Search 'dress', select any item, add to wishlist",
+			"D": "Search 'skirt', read all reviews, leave feedback"
+		},
+		"ground_truth": "B",
+		"question_type": "intention_level",
+		"app_name": ["Amazon", "SHEIN", "meesho"],
+		"app_cateory": "Shopping",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to calculate the total amount to be paid including tip. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Calculator",
+			"B": "Tip Calculator",
+			"C": "Finance",
+			"D": "Restaurant Guide"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to calculate the amount to be paid when the total cost is 56.6 and tip rate is 10%. What information should I input?",
+		"options": {
+			"A": "Total cost: 56.6, Tip rate: 15%",
+			"B": "Total cost: 50.0, Tip rate: 10%",
+			"C": "Total cost: 56.6, Tip rate: 10%",
+			"D": "Total cost: 60.0, Tip rate: 20%"
+		},
+		"ground_truth": "C",
+		"question_type": "intention_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to split a bill including tip among multiple people. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Messaging",
+			"B": "Tip Calculator",
+			"C": "Spreadsheet",
+			"D": "Contact List"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to calculate the amount each person pays when the total cost is 56.6, the tip rate is 20%, and there are 4 people. What information should I input?",
+		"options": {
+			"A": "Total: 56.6, Tip: 20%, People: 4",
+			"B": "Total: 60.0, Tip: 15%, People: 3",
+			"C": "Total: 56.6, Tip: 10%, People: 4",
+			"D": "Total: 50.0, Tip: 20%, People: 5"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	},
+	{
+		"question": "I want to calculate a tip and share the result. To fulfill my need, which of the following app categories best suits my need?",
+		"options": {
+			"A": "Social Media",
+			"B": "Tip Calculator",
+			"C": "Messaging",
+			"D": "Notes"
+		},
+		"ground_truth": "B",
+		"question_type": "app_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	},
+	{
+		"question": "I need to calculate the amount to be paid when the total cost is 60 and tip rate is 15%, then navigate to result share page. What sequence of actions should I take?",
+		"options": {
+			"A": "Input 60 as total, 15% as tip, calculate, go to share page",
+			"B": "Input 60 as tip, 15 as total, calculate, save result",
+			"C": "Input 15 as total, 60% as tip, calculate, email result",
+			"D": "Input 60 as total, 15 as tip amount, calculate, print result"
+		},
+		"ground_truth": "A",
+		"question_type": "intention_level",
+		"app_name": ["a51", "a52", "a53", "a54", "a55"],
+		"app_cateory": "Tip Calculator",
+		"author": "Jason"
+	}
+]

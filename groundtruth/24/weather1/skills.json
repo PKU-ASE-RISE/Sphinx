@@ -1,0 +1,14 @@
+[
+    {
+        "name": "add a location Paris",
+        "length": 5,
+        "start_index": 0,
+        "end_index": 4
+    },
+    {
+        "name": "view the location Paris",
+        "length": 1,
+        "start_index": 5,
+        "end_index": 5
+    }
+]

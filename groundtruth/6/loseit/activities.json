@@ -1,0 +1,30 @@
+[
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.application.search.UniversalSearchActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "PopupWindow"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.log.QuickCaloriesActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.log.QuickCaloriesActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ]
+]

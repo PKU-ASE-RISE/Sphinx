@@ -1,0 +1,114 @@
+[
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "Log In",
+            "resource-id": "com.pandora.android:id/welcome_log_in_button",
+            "class": "android.widget.Button",
+            "package": "com.pandora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,1048][640,1136]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "none",
+        "element": null
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Skip",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.pandora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[635,57][731,153]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Skip anyway",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.pandora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[302,863][466,904]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.pandora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[294,902][474,962]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    }
+]

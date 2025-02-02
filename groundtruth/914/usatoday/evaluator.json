@@ -1,0 +1,11 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "click",
+            "resource-id": "com.usatoday.android.news:id/nav_section_textview",
+            "text": "Politics"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "content-desc": "Place is saved in Favorites. Tap to remove the place from the list.",
+            "bounds": "[656,482][752,578]"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

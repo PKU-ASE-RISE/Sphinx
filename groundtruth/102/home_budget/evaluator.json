@@ -1,0 +1,32 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.anishu.homebudget.lite:id/line1",
+            "text": "other"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.anishu.homebudget.lite:id/line3",
+            "text": "$20.00"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "other"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

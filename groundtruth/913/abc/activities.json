@@ -1,0 +1,14 @@
+[
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.navigation.MainNavigationActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.NewsItemPagerActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.NewsItemPagerActivity"
+    ]
+]

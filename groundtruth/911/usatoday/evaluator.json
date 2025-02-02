@@ -1,0 +1,20 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "App Version"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Terms of Service"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

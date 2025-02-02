@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Click flights tab",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "Choose one way trip",
+        "length": 1,
+        "start_index": 1,
+        "end_index": 1
+    },
+    {
+        "name": "Remove original input in departure input box, search for Paris airport and select all airports from Paris",
+        "length": 5,
+        "start_index": 2,
+        "end_index": 6
+    },
+    {
+        "name": "search for New York in destination input box and select all airports from New York",
+        "length": 4,
+        "start_index": 7,
+        "end_index": 10
+    },
+    {
+        "name": "click search",
+        "length": 1,
+        "start_index": 11,
+        "end_index": 11
+    }
+]

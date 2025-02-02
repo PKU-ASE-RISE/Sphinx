@@ -1,0 +1,18 @@
+[
+    [
+        "com.usatoday.android.news",
+        "com.gannett.android.news.ui.activity.ActivityNavigation"
+    ],
+    [
+        "com.usatoday.android.news",
+        "com.gannett.android.news.ui.activity.ActivityNavigation"
+    ],
+    [
+        "com.usatoday.android.news",
+        "com.gannett.android.news.ui.activity.ActivityNavigation"
+    ],
+    [
+        "com.google.android.gm",
+        "com.google.android.gm.ComposeActivityGmailExternal"
+    ]
+]

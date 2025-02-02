@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.mapquest.android.ace:id/search_bar_search_field",
+            "text": "restaurants near me"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.mapquest.android.ace:id/close_button",
+            "text": "x"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

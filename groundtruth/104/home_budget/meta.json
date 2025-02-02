@@ -1,0 +1,59 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Search",
+            "resource-id": "com.anishu.homebudget.lite:id/title",
+            "class": "android.widget.TextView",
+            "package": "com.anishu.homebudget.lite",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[591,1031][690,1074]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "other",
+        "element": {
+            "index": "1",
+            "text": "type to filter",
+            "resource-id": "com.anishu.homebudget.lite:id/searchText",
+            "class": "android.widget.EditText",
+            "package": "com.anishu.homebudget.lite",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,160][768,256]",
+            "drawing-order": "3",
+            "hint": "type to filter",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

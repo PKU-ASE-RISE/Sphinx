@@ -1,0 +1,20 @@
+[
+    {
+        "name": "search for the weeknd",
+        "length": 3,
+        "start_index": 0,
+        "end_index": 2
+    },
+    {
+        "name": "filter the search result as albums",
+        "length": 1,
+        "start_index": 3,
+        "end_index": 3
+    },
+    {
+        "name": "play the first result",
+        "length": 2,
+        "start_index": 4,
+        "end_index": 5
+    }
+]

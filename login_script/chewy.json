@@ -1,0 +1,80 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "",
+            "resource-id": "com.chewy.android:id/accountMainFragment",
+            "class": "android.widget.FrameLayout",
+            "package": "com.chewy.android",
+            "content-desc": "Account",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[462,1072][615,1184]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.chewy.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[16,656][752,752]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "social-google-btn",
+            "class": "android.view.View",
+            "package": "com.android.chrome",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,752][736,850]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "rule",
+        "order": "consecutive",
+        "evaluators": [
+            {
+                "type": "rule",
+                "order": "present",
+                "evaluators": [
+                    {
+                        "type": "findaction",
+                        "match_type": "equal",
+                        "match_rules": {
+                            "resource-id": "com.tleapps.simpletipcalculator:id/editTextBill"
+                        },
+                        "check_type": "equal",
+                        "check_rules": {
+                            "message": "56.6"
+                        }
+                    },
+                    {
+                        "type": "findaction",
+                        "match_type": "equal",
+                        "match_rules": {
+                            "resource-id": "com.tleapps.simpletipcalculator:id/editTextTip"
+                        },
+                        "check_type": "equal",
+                        "check_rules": {
+                            "message": "10"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "findaction",
+                "match_type": "equal",
+                "match_rules": {
+                    "resource-id": "com.tleapps.simpletipcalculator:id/buttonCalculate"
+                },
+                "check_type": "equal",
+                "check_rules": {}
+            },
+            {
+                "type": "findelement",
+                "match_type": "equal",
+                "match_rules": {
+                    "resource-id": "com.tleapps.simpletipcalculator:id/textViewTotalToPay"
+                },
+                "check_type": "equal",
+                "check_rules": {
+                    "text": "$62.26"
+                }
+            }
+        ]
+    }
+]

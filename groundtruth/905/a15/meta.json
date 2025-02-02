@@ -1,0 +1,72 @@
+[
+    {
+        "type": "input",
+        "message": "https://www.ics.uci.edu",
+        "element": {
+            "index": "0",
+            "text": "Search or enter address",
+            "resource-id": "org.mozilla.focus:id/urlView",
+            "class": "android.widget.EditText",
+            "package": "org.mozilla.focus",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[16,66][672,146]",
+            "drawing-order": "1",
+            "hint": "Search or enter address",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "https://uci.edu",
+        "element": {
+            "index": "1",
+            "text": "https://ics.uci.edu/",
+            "resource-id": "org.mozilla.focus:id/display_url",
+            "class": "android.widget.TextView",
+            "package": "org.mozilla.focus",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[100,48][648,160]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

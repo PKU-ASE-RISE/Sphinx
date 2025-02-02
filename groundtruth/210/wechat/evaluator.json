@@ -1,0 +1,20 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Last 3 days"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    },
+    {
+        "type": "findelement",
+        "match_type": "equal",
+        "match_rules": {
+            "checked": "true"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

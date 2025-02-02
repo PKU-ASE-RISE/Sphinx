@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.zaidisoft.teninone:id/totalBillAmountTV"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "62.26"
+        }
+    }
+]

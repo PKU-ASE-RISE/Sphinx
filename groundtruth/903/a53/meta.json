@@ -1,0 +1,85 @@
+[
+    {
+        "type": "input",
+        "message": "60",
+        "element": {
+            "index": "1",
+            "text": "100.00",
+            "resource-id": "com.tleapps.simpletipcalculator:id/editTextBill",
+            "class": "android.widget.EditText",
+            "package": "com.tleapps.simpletipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[364,332][704,417]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Calculate",
+            "resource-id": "com.tleapps.simpletipcalculator:id/buttonCalculate",
+            "class": "android.widget.Button",
+            "package": "com.tleapps.simpletipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[110,634][286,730]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Share",
+            "resource-id": "com.tleapps.simpletipcalculator:id/buttonShare",
+            "class": "android.widget.Button",
+            "package": "com.tleapps.simpletipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[296,634][472,730]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

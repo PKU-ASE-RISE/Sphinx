@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<hierarchy rotation="0">
+
+  <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_frame" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_view" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/navigation_inflater" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/horizontal" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="com.android.systemui:id/nav_buttons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/ends_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][89,1280]" drawing-order="1" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/back" class="android.widget.ImageView" package="com.android.systemui" content-desc="Back" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/recent_apps" class="android.widget.ImageView" package="com.android.systemui" content-desc="Overview" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="3" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="5" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/menu_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/ime_switcher" class="android.widget.ImageView" package="com.android.systemui" content-desc="Switch input method" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="2" hint="" display-id="0" />
+
+                </node>
+
+              </node>
+
+            </node>
+
+            <node index="1" text="" resource-id="com.android.systemui:id/center_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/home" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/home_button" class="android.widget.ImageView" package="com.android.systemui" content-desc="Home" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="5" hint="" display-id="0" />
+
+                <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0" />
+
+                <node index="2" text="" resource-id="com.android.systemui:id/white_cutout" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="3" hint="" display-id="0" />
+
+                <node index="3" text="" resource-id="com.android.systemui:id/white" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="4" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/status_bar_launch_animation_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0" />
+
+    <node index="1" text="" resource-id="com.android.systemui:id/status_bar_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="2" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/status_bar" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/status_bar_contents" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][728,48]" drawing-order="2" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/status_bar_left_side" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="7:33" resource-id="com.android.systemui:id/clock" class="android.widget.TextView" package="com.android.systemui" content-desc="7:33 PM" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][85,48]" drawing-order="2" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="com.android.systemui:id/notification_icon_area" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/notification_icon_area_inner" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/notificationIcons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="AliExpress notification: " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][129,48]" drawing-order="1" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Reddit notification: " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[129,0][173,48]" drawing-order="2" hint="" display-id="0" />
+
+                    <node index="2" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="SHEIN notification: " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[173,0][217,48]" drawing-order="3" hint="" display-id="0" />
+
+                    <node index="3" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="ATX notification: UIAutomator" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[217,0][261,48]" drawing-order="4" hint="" display-id="0" />
+
+                    <node index="4" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Android System notification: Serial console enabled" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[261,0][305,48]" drawing-order="5" hint="" display-id="0" />
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+          <node index="1" text="" resource-id="com.android.systemui:id/system_icon_area" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="4" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/system_icons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/statusIcons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][696,48]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/mobile_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="Phone signal full." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,2][684,46]" drawing-order="17" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/mobile_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,2][684,46]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.android.systemui:id/mobile_type" class="android.widget.ImageView" package="com.android.systemui" content-desc="No internet" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,8][654,40]" drawing-order="2" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="4" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.android.systemui:id/mobile_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+              <node index="1" text="" resource-id="com.android.systemui:id/battery" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="Battery 100 percent." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,0][712,48]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,11][712,37]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="2" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.tleapps.simpletipcalculator:id/action_bar_root" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="2" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,160]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.tleapps.simpletipcalculator:id/toolbar" class="android.view.ViewGroup" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,160]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="Simple Tip Calculator" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,80][437,128]" drawing-order="1" hint="" display-id="0" />
+
+                </node>
+
+              </node>
+
+              <node index="1" text="" resource-id="com.tleapps.simpletipcalculator:id/content_main" class="android.widget.RelativeLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1184]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="" class="android.widget.ScrollView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,192][736,961]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,961]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.tleapps.simpletipcalculator:id/adView" class="android.view.ViewGroup" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="1" hint="" display-id="0">
+
+                        <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="1" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="1" hint="" display-id="0">
+
+                              <node index="0" text="" resource-id="" class="android.webkit.WebView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.webkit.WebView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                  <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="mys-wrapper" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="mys-content" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                          <node index="0" text="" resource-id="banner-nologo" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0">
+
+                                            <node index="0" text="법무법인태승 더스마트상속" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,212][532,240]" drawing-order="0" hint="" display-id="0">
+
+                                              <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="법무법인태승 더스마트상속" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,212][336,238]" drawing-order="0" hint="" display-id="0">
+
+                                                <node index="0" text="법무법인태승 더스마트상속" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,212][336,238]" drawing-order="0" hint="" display-id="0" />
+
+                                              </node>
+
+                                            </node>
+
+                                            <node index="1" text="법무법인태승 더스마트상속" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,238][532,272]" drawing-order="0" hint="" display-id="0">
+
+                                              <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="주한미국대사관 등록 상속로펌" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,238][460,272]" drawing-order="0" hint="" display-id="0">
+
+                                                <node index="0" text="주한미국대사관 등록 상속로펌" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[104,238][460,272]" drawing-order="0" hint="" display-id="0" />
+
+                                              </node>
+
+                                            </node>
+
+                                            <node index="2" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="열기" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[556,212][690,272]" drawing-order="0" hint="" display-id="0">
+
+                                              <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[556,212][690,272]" drawing-order="0" hint="" display-id="0">
+
+                                                <node index="0" text="열기" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[588,228][634,256]" drawing-order="0" hint="" display-id="0" />
+
+                                                <node index="1" text="" resource-id="" class="android.widget.Image" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[644,232][658,252]" drawing-order="0" hint="" display-id="0" />
+
+                                              </node>
+
+                                            </node>
+
+                                          </node>
+
+                                        </node>
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="1" text="" resource-id="abgcp" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,242][164,292]" drawing-order="0" hint="" display-id="0">
+
+                                      <node NAF="true" index="0" text="" resource-id="abgc" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[66,260][140,290]" drawing-order="0" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="abgb" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[96,260][140,290]" drawing-order="0" hint="" display-id="0">
+
+                                          <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[96,260][140,290]" drawing-order="0" hint="" display-id="0">
+
+                                            <node index="0" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[96,260][140,290]" drawing-order="0" hint="" display-id="0">
+
+                                              <node index="0" text="" resource-id="" class="android.widget.Image" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[96,260][142,290]" drawing-order="0" hint="" display-id="0" />
+
+                                            </node>
+
+                                          </node>
+
+                                        </node>
+
+                                        <node NAF="true" index="1" text="" resource-id="cbb" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[66,260][96,290]" drawing-order="0" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="2" text="" resource-id="" class="android.view.View" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,192][704,292]" drawing-order="0" hint="" display-id="0" />
+
+                                  </node>
+
+                                </node>
+
+                              </node>
+
+                              <node index="1" text="Test Ad" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[328,192][440,233]" drawing-order="2" hint="" display-id="0" />
+
+                            </node>
+
+                          </node>
+
+                        </node>
+
+                      </node>
+
+                    </node>
+
+                    <node index="1" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,332][704,432]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="Bill" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,332][364,412]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="56.6" resource-id="com.tleapps.simpletipcalculator:id/editTextBill" class="android.widget.EditText" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[364,332][704,417]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="2" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,432][704,532]" drawing-order="3" hint="" display-id="0">
+
+                      <node index="0" text="Tip (%)" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,432][364,512]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="-" resource-id="com.tleapps.simpletipcalculator:id/buttonTipMinus" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,432][434,502]" drawing-order="3" hint="" display-id="0" />
+
+                      <node index="2" text="+" resource-id="com.tleapps.simpletipcalculator:id/buttonTipPlus" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[444,432][514,502]" drawing-order="4" hint="" display-id="0" />
+
+                      <node index="3" text="20" resource-id="com.tleapps.simpletipcalculator:id/editTextTip" class="android.widget.EditText" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[514,432][704,517]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="3" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,532][704,632]" drawing-order="4" hint="" display-id="0">
+
+                      <node index="0" text="Split" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,532][364,612]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="-" resource-id="com.tleapps.simpletipcalculator:id/buttonSplitMinus" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,532][434,602]" drawing-order="3" hint="" display-id="0" />
+
+                      <node index="2" text="+" resource-id="com.tleapps.simpletipcalculator:id/buttonSplitPlus" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[444,532][514,602]" drawing-order="4" hint="" display-id="0" />
+
+                      <node index="3" text="1" resource-id="com.tleapps.simpletipcalculator:id/editTextSplit" class="android.widget.EditText" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[514,532][704,617]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="4" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,632][704,732]" drawing-order="5" hint="" display-id="0">
+
+                      <node index="0" text="Calculate" resource-id="com.tleapps.simpletipcalculator:id/buttonCalculate" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[110,634][286,730]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="Share" resource-id="com.tleapps.simpletipcalculator:id/buttonShare" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[296,634][472,730]" drawing-order="2" hint="" display-id="0" />
+
+                      <node index="2" text="Copy" resource-id="com.tleapps.simpletipcalculator:id/buttonCopyResult" class="android.widget.Button" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[482,634][658,730]" drawing-order="3" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="5" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,792][704,835]" drawing-order="6" hint="" display-id="0">
+
+                      <node index="0" text="Total Bill" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,792][404,835]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="$0.00" resource-id="com.tleapps.simpletipcalculator:id/textViewTotalToPay" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[404,792][704,835]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="6" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,855][704,898]" drawing-order="7" hint="" display-id="0">
+
+                      <node index="0" text="Total Tip" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,855][401,898]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="$0.00" resource-id="com.tleapps.simpletipcalculator:id/textViewTotalTip" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[401,855][704,898]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="7" text="" resource-id="" class="android.widget.LinearLayout" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,918][704,961]" drawing-order="8" hint="" display-id="0">
+
+                      <node index="0" text="Per person" resource-id="" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[64,918][421,961]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="$0.00" resource-id="com.tleapps.simpletipcalculator:id/textViewTotalPerPerson" class="android.widget.TextView" package="com.tleapps.simpletipcalculator" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[421,918][704,961]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+</hierarchy>

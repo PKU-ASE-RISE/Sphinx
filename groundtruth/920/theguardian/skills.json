@@ -1,0 +1,14 @@
+[
+    {
+        "name": "navigate to search",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "search for toy",
+        "length": 2,
+        "start_index": 1,
+        "end_index": 2
+    }
+]

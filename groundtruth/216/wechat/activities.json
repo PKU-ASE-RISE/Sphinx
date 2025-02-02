@@ -1,0 +1,34 @@
+[
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.setting.ui.setting.PreviewHdHeadImg"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.setting.ui.setting.PreviewHdHeadImg"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.gallery.ui.AlbumPreviewUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.gallery.picker.view.ImageCropUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.setting.ui.setting.PreviewHdHeadImg"
+    ]
+]

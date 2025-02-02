@@ -1,0 +1,30 @@
+[
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.qzone.publish.ui.activity.QZonePublishMoodRealActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.qzone.publish.ui.activity.QZonePublishMoodRealActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity"
+    ]
+]

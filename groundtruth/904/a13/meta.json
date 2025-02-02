@@ -1,0 +1,37 @@
+[
+    {
+        "type": "input",
+        "message": "https://www.ics.uci.edu",
+        "element": {
+            "index": "1",
+            "text": "https://html.duckduckgo.com/html",
+            "resource-id": "com.stoutner.privacybrowser.standard:id/url_edittext",
+            "class": "android.widget.EditText",
+            "package": "com.stoutner.privacybrowser.standard",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[204,58][588,149]",
+            "drawing-order": "2",
+            "hint": "URL or Search Terms",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

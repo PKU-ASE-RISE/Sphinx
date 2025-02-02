@@ -1,0 +1,14 @@
+[
+    {
+        "name": "navigate to add shopping list",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "input and save",
+        "length": 2,
+        "start_index": 2,
+        "end_index": 3
+    }
+]

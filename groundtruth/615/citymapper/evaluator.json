@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "resource-id": "com.citymapper.app.release:id/menu_favorite_on"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "resource-id": "com.citymapper.app.release:id/menu_favorite_on"
+        }
+    }
+]

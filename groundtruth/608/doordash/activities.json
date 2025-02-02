@@ -1,0 +1,14 @@
+[
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.facetFeed.FacetFeedActivity"
+    ]
+]

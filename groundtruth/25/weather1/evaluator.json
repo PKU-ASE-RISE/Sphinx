@@ -1,0 +1,9 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "text": "SAT"
+        }
+    }
+]

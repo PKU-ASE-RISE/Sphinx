@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Search location"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "input"
+        }
+    }
+]

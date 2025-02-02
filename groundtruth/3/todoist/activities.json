@@ -1,0 +1,26 @@
+[
+    [
+        "com.todoist",
+        "com.todoist.alias.HomeActivityDefault"
+    ],
+    [
+        "com.todoist",
+        "com.todoist.alias.HomeActivityDefault"
+    ],
+    [
+        "com.todoist",
+        "PopupWindow"
+    ],
+    [
+        "com.todoist",
+        "com.todoist.activity.CreateProjectActivity"
+    ],
+    [
+        "com.todoist",
+        "com.todoist.activity.CreateProjectActivity"
+    ],
+    [
+        "com.todoist",
+        "com.todoist.alias.HomeActivityDefault"
+    ]
+]

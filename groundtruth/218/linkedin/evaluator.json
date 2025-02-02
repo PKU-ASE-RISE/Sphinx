@@ -1,0 +1,20 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Uploaded on"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "sample-resume.pdf"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

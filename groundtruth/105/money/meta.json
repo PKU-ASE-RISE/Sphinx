@@ -1,0 +1,85 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Cash",
+            "resource-id": "com.kb404.money:id/op_wallet",
+            "class": "android.widget.TextView",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[504,410][747,448]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Dinner~",
+        "element": {
+            "index": "14",
+            "text": "Dinner",
+            "resource-id": "com.kb404.money:id/op_comment",
+            "class": "android.widget.EditText",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,795][748,891]",
+            "drawing-order": "17",
+            "hint": "Commentary",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "SAVE",
+            "resource-id": "com.kb404.money:id/button_save",
+            "class": "android.widget.Button",
+            "package": "com.kb404.money",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[16,917][192,1013]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

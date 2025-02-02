@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Search gas in search bar",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "Open the closest gas station",
+        "length": 2,
+        "start_index": 2,
+        "end_index": 3
+    }
+]

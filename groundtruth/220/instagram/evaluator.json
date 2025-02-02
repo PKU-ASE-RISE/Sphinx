@@ -1,0 +1,11 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "\u5df2\u62c9\u9ed1"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

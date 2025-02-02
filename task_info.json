@@ -1,0 +1,519 @@
+[
+    {
+        "id": 2,
+        "description": "create a task titled 'test', change the name of the task titled 'test' from 'test' to 'test two', then delete the task titled 'test two'",
+        "apps": [
+            "ticktick"
+        ]
+    },
+    {
+        "id": 3,
+        "description": "create a project or separate todo list titled 'Test'",
+        "apps": [
+            "ticktick"
+        ]
+    },
+    {
+        "id": 4,
+        "description": "create a note titled 'Test' with the contents 'This is a test.'",
+        "apps": [
+            "googlekeep",
+            "obsidian"
+        ]
+    },
+    {
+        "id": 5,
+        "description": "log a new weight today at 160 pounds",
+        "apps": [
+            "mynetdiary"
+        ]
+    },
+    {
+        "id": 6,
+        "description": "log a new breakfast calorie entry of 500 calories",
+        "apps": [
+            "mynetdiary"
+        ]
+    },
+    {
+        "id": 8,
+        "description": "Create a task titled 'pick up milk' and then delete it",
+        "apps": [
+            "thingslist"
+        ]
+    },
+    {
+        "id": 19,
+        "description": "Scan a barcode of a photo in the gallery",
+        "apps": [
+            "qr_barcode_reader",
+            "barcode_scanner",
+            "qr_code_scanner"
+        ]
+    },
+    {
+        "id": 20,
+        "description": "delete a download file",
+        "apps": [
+            "fm1",
+            "fm2",
+            "fm3"
+        ]
+    },
+    {
+        "id": 21,
+        "description": "uninstall an app",
+        "apps": [
+            "fm1",
+            "fm2"
+        ]
+    },
+    {
+        "id": 22,
+        "description": "set wallpaper",
+        "apps": [
+            "wallpaper1",
+            "wallpaper2",
+            "wallpaper3"
+        ]
+    },
+    {
+        "id": 23,
+        "description": "open the file analyzer",
+        "apps": [
+            "fm1",
+            "fm3",
+            "fm4"
+        ]
+    },
+    {
+        "id": 24,
+        "description": "add a location Paris and display the weather",
+        "apps": [
+            "weather1",
+            "weather2",
+            "weather3"
+        ]
+    },
+    {
+        "id": 25,
+        "description": "view Saturday's weather",
+        "apps": [
+            "weather1",
+            "weather2",
+            "weather3"
+        ]
+    },
+    {
+        "id": 26,
+        "description": "switch between fahrenheit and celsius",
+        "apps": [
+            "weather1",
+            "weather2",
+            "weather3"
+        ]
+    },
+    {
+        "id": 27,
+        "description": "share a photo",
+        "apps": [
+            "fs2",
+            "fs3"
+        ]
+    },
+    {
+        "id": 28,
+        "description": "search 'skirt', select the best seller, and add to chart",
+        "apps": [
+            "amazon",
+            "shein",
+            "meesho"
+        ]
+    },
+    {
+        "id": 101,
+        "description": "Create an expense for today: dinner 10 in the default currency",
+        "apps": [
+            "money",
+            "home_budget"
+        ]
+    },
+    {
+        "id": 102,
+        "description": "Modify expense record: Change the expense category to other and the expense amount to 20",
+        "apps": [
+            "money",
+            "home_budget"
+        ]
+    },
+    {
+        "id": 103,
+        "description": "Delete an existing record",
+        "apps": [
+            "money",
+            "home_budget"
+        ]
+    },
+    {
+        "id": 104,
+        "description": "Search records: Search for expense records in the other category",
+        "apps": [
+            "money",
+            "home_budget"
+        ]
+    },
+    {
+        "id": 105,
+        "description": "Add a note text to the expense record",
+        "apps": [
+            "money",
+            "home_budget"
+        ]
+    },
+    {
+        "id": 106,
+        "description": "Translated to chinese: hello world",
+        "apps": [
+            "translate"
+        ]
+    },
+    {
+        "id": 107,
+        "description": "Clear history",
+        "apps": [
+            "translate"
+        ]
+    },
+    {
+        "id": 108,
+        "description": "Add 'test' to my favorites",
+        "apps": [
+            "translate"
+        ]
+    },
+    {
+        "id": 109,
+        "description": "Search: History of computer development",
+        "apps": [
+            "google_chrome",
+            "firefox",
+            "tor_browser"
+        ]
+    },
+    {
+        "id": 110,
+        "description": "View and delete search history",
+        "apps": [
+            "google_chrome",
+            "firefox",
+            "tor_browser"
+        ]
+    },
+    {
+        "id": 111,
+        "description": "Change Settings: Switch search engine to DuckDuckGo",
+        "apps": [
+            "google_chrome",
+            "firefox",
+            "tor_browser"
+        ]
+    },
+    {
+        "id": 112,
+        "description": "Add a new tab",
+        "apps": [
+            "firefox",
+            "google_chrome"
+        ]
+    },
+    {
+        "id": 201,
+        "description": "Set a 10 minutes timer",
+        "apps": [
+            "deskclock",
+            "timer"
+        ]
+    },
+    {
+        "id": 202,
+        "description": "Check basic information of  browser in about",
+        "apps": [
+            "firefox2",
+            "edge"
+        ]
+    },
+    {
+        "id": 203,
+        "description": "Change wind speed from mph to km/h",
+        "apps": [
+            "weather",
+            "weatherforecast"
+        ]
+    },
+    {
+        "id": 204,
+        "description": "Add widgets for Weather",
+        "apps": [
+            "weather",
+            "weatherforecast"
+        ]
+    },
+    {
+        "id": 205,
+        "description": "Download picture using browser widget",
+        "apps": [
+            "duckduckgo",
+            "edge"
+        ]
+    },
+    {
+        "id": 206,
+        "description": "Find nearest gas station",
+        "apps": [
+            "googlemap",
+            "waze2",
+            "herewego"
+        ]
+    },
+    {
+        "id": 207,
+        "description": "Reserve restaurant",
+        "apps": [
+            "googlemap"
+        ]
+    },
+    {
+        "id": 208,
+        "description": "Cancel restaurant reservation",
+        "apps": [
+            "googlemap"
+        ]
+    },
+    {
+        "id": 209,
+        "description": "Check ride price",
+        "apps": [
+            "uber",
+            "googlemap"
+        ]
+    },
+    {
+        "id": 901,
+        "description": "Calculate the amount to be paid when the total cost is 56.6 and tip rate is 10%",
+        "apps": [
+            "a51",
+            "a52",
+            "a53",
+            "a54",
+            "a55"
+        ]
+    },
+    {
+        "id": 902,
+        "description": "Calculate the amount each person pays when the total cost is 56.6, the tip rate is 20%, and there are 4 people.",
+        "apps": [
+            "a51",
+            "a52",
+            "a53",
+            "a54",
+            "a55"
+        ]
+    },
+    {
+        "id": 903,
+        "description": "Calculate the amount to be paid when the total cost is 60 and tip rate is 15%, then navigate to result share page",
+        "apps": [
+            "a53",
+            "a55"
+        ]
+    },
+    {
+        "id": 904,
+        "description": "Open web page 'https://www.ics.uci.edu'",
+        "apps": [
+            "a13",
+            "a14",
+            "a15"
+        ]
+    },
+    {
+        "id": 905,
+        "description": "Open web page 'https://www.ics.uci.edu', open web page 'https://uci.edu' and go back",
+        "apps": [
+            "a13",
+            "a14",
+            "a15"
+        ]
+    },
+    {
+        "id": 906,
+        "description": "Add a new todo named 'Sample Todo' in default list",
+        "apps": [
+            "a21",
+            "a22",
+            "a23",
+            "a24",
+            "a25"
+        ]
+    },
+    {
+        "id": 907,
+        "description": "Add a new todo named 'Sample Todo' in default list and delete the todo",
+        "apps": [
+            "a21",
+            "a22",
+            "a23",
+            "a24",
+            "a25"
+        ]
+    },
+    {
+        "id": 908,
+        "description": "Add a new expense about 'Food' with amount 50",
+        "apps": [
+            "expense1",
+            "expense2",
+            "expense3",
+            "expense4"
+        ]
+    },
+    {
+        "id": 909,
+        "description": "Create a new note with title 'Test' and empty content",
+        "apps": [
+            "note2",
+            "note3",
+            "note4"
+        ]
+    },
+    {
+        "id": 910,
+        "description": "Create a new shopping list named computer",
+        "apps": [
+            "shop1",
+            "shop2",
+            "shop3",
+            "shop4"
+        ]
+    },
+    {
+        "id": 911,
+        "description": "view about this app",
+        "apps": [
+            "etsy",
+            "fox",
+            "smartnews",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 912,
+        "description": "go to my account profile",
+        "apps": [
+            "fox",
+            "theguardian"
+        ]
+    },
+    {
+        "id": 913,
+        "description": "add a new to my bookmark",
+        "apps": [
+            "abc",
+            "fox",
+            "theguardian"
+        ]
+    },
+    {
+        "id": 914,
+        "description": "view Politics category",
+        "apps": [
+            "abc",
+            "fox",
+            "smartnews",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 915,
+        "description": "view feedback information",
+        "apps": [
+            "abc",
+            "fox",
+            "reuters",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 916,
+        "description": "view details of a new/product",
+        "apps": [
+            "abc",
+            "fox",
+            "smartnews",
+            "theguardian"
+        ]
+    },
+    {
+        "id": 917,
+        "description": "view help information",
+        "apps": [
+            "etsy",
+            "fox",
+            "smartnews",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 918,
+        "description": "open the menu",
+        "apps": [
+            "abc",
+            "reuters",
+            "theguardian"
+        ]
+    },
+    {
+        "id": 919,
+        "description": "add a new to my bookmark and remove it",
+        "apps": [
+            "abc",
+            "fox",
+            "theguardian"
+        ]
+    },
+    {
+        "id": 920,
+        "description": "search for 'toy'",
+        "apps": [
+            "etsy",
+            "smartnews",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 921,
+        "description": "view terms and conditions",
+        "apps": [
+            "abc",
+            "fox",
+            "reuters",
+            "smartnews",
+            "theguardian",
+            "usatoday"
+        ]
+    },
+    {
+        "id": 922,
+        "description": "change the text size and show it through a news page",
+        "apps": [
+            "abc",
+            "fox",
+            "smartnews"
+        ]
+    }
+]

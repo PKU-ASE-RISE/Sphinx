@@ -1,0 +1,111 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Online",
+            "resource-id": "com.lomolsoft.dict.fedict:id/rbTrans",
+            "class": "android.widget.RadioButton",
+            "package": "com.lomolsoft.dict.fedict",
+            "content-desc": "",
+            "checkable": "true",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[153,1084][306,1184]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Input the content you need to translate",
+            "resource-id": "com.lomolsoft.dict.fedict:id/translate_source_text",
+            "class": "android.widget.EditText",
+            "package": "com.lomolsoft.dict.fedict",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[24,140][744,400]",
+            "drawing-order": "1",
+            "hint": "Input the content you need to translate",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "hello world",
+        "element": {
+            "index": "0",
+            "text": "Input the content you need to translate",
+            "resource-id": "com.lomolsoft.dict.fedict:id/translate_source_text",
+            "class": "android.widget.EditText",
+            "package": "com.lomolsoft.dict.fedict",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[24,140][744,400]",
+            "drawing-order": "1",
+            "hint": "Input the content you need to translate",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "GO",
+            "resource-id": "com.lomolsoft.dict.fedict:id/translate_go",
+            "class": "android.widget.TextView",
+            "package": "com.lomolsoft.dict.fedict",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[334,384][434,484]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.corenav.StartActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.corenav.StartActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.corenav.StartActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.foryou.SettingsActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.foryou.SettingsActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.common.web.WebViewActivity"
+    ]
+]

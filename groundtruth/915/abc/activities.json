@@ -1,0 +1,22 @@
+[
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.navigation.MainNavigationActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.navigation.MainNavigationActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.navigation.MainNavigationActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.SettingsActivity"
+    ],
+    [
+        "com.abc.abcnews",
+        "com.abc.abcnews.ui.WebViewActivity"
+    ]
+]

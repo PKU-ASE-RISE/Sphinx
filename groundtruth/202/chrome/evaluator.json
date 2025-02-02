@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "About Chrome"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "What do you want to ask or share?"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "What do you want to ask or share?"
+        }
+    }
+]

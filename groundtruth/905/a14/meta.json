@@ -1,0 +1,72 @@
+[
+    {
+        "type": "input",
+        "message": "https://www.ics.uci.edu",
+        "element": {
+            "index": "0",
+            "text": "Search or type URL",
+            "resource-id": "de.baumann.browser:id/main_omnibox_input",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "de.baumann.browser",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,1072][608,1184]",
+            "drawing-order": "3",
+            "hint": "Search or type URL",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "input",
+        "message": "https://uci.edu",
+        "element": {
+            "index": "0",
+            "text": "https://ics.uci.edu/",
+            "resource-id": "de.baumann.browser:id/main_omnibox_input",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "de.baumann.browser",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,1072][608,1184]",
+            "drawing-order": "3",
+            "hint": "Search or type URL",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

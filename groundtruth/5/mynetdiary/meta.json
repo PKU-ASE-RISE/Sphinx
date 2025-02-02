@@ -1,0 +1,112 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/main_fab",
+            "class": "android.widget.ImageButton",
+            "package": "com.fourtechnologies.mynetdiary.ad",
+            "content-desc": "Add",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[624,880][736,992]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "3",
+            "text": "Weight",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/title",
+            "class": "android.widget.TextView",
+            "package": "com.fourtechnologies.mynetdiary.ad",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[560,917][736,1152]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "160",
+        "element": {
+            "NAF": "true",
+            "index": "1",
+            "text": "",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/edit_weight",
+            "class": "android.widget.EditText",
+            "package": "com.fourtechnologies.mynetdiary.ad",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[224,369][544,470]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "6",
+            "text": "Save",
+            "resource-id": "com.fourtechnologies.mynetdiary.ad:id/button_save",
+            "class": "android.widget.Button",
+            "package": "com.fourtechnologies.mynetdiary.ad",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[224,635][544,731]",
+            "drawing-order": "11",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

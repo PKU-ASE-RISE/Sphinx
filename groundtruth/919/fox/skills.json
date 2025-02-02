@@ -1,0 +1,20 @@
+[
+    {
+        "name": "view a new",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "add to bookmark",
+        "length": 1,
+        "start_index": 1,
+        "end_index": 1
+    },
+    {
+        "name": "delete bookmark",
+        "length": 1,
+        "start_index": 2,
+        "end_index": 2
+    }
+]

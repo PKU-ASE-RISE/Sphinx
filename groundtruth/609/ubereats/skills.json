@@ -1,0 +1,26 @@
+[
+    {
+        "name": "set location",
+        "length": 5,
+        "start_index": 0,
+        "end_index": 4
+    },
+    {
+        "name": "search require information",
+        "length": 3,
+        "start_index": 5,
+        "end_index": 7
+    },
+    {
+        "name": "Looking for eligible items",
+        "length": 7,
+        "start_index": 8,
+        "end_index": 14
+    },
+    {
+        "name": "set time",
+        "length": 10,
+        "start_index": 15,
+        "end_index": 24
+    }
+]

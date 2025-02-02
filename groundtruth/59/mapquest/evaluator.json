@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.mapquest.android.ace:id/layer_hide_icon",
+            "bounds": "[86,982][96,996]",
+            "text": "x"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

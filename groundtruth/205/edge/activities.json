@@ -1,0 +1,30 @@
+[
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.searchwidget.SearchActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.searchwidget.SearchActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ],
+    [
+        "com.microsoft.emmx",
+        "org.chromium.chrome.browser.ChromeTabbedActivity"
+    ]
+]

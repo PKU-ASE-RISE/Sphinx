@@ -1,0 +1,20 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Terms"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "SmartNews Terms of Service"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

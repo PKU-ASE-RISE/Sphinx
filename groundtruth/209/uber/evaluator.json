@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "text": "$"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

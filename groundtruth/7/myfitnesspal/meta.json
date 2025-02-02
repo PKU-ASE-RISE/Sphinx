@@ -1,0 +1,58 @@
+[
+    {
+        "type": "longclick",
+        "element": {
+            "index": "0",
+            "text": "Quick Added Calories",
+            "resource-id": "com.myfitnesspal.android:id/txtItemDescription",
+            "class": "android.widget.TextView",
+            "package": "com.myfitnesspal.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[32,785][635,825]",
+            "drawing-order": "1",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Delete Entry",
+            "resource-id": "com.myfitnesspal.android:id/text",
+            "class": "android.widget.TextView",
+            "package": "com.myfitnesspal.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[211,701][652,747]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

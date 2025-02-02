@@ -1,0 +1,14 @@
+[
+    {
+        "name": "navigate to add todo",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "input and confirm",
+        "length": 2,
+        "start_index": 1,
+        "end_index": 2
+    }
+]

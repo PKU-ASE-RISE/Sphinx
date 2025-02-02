@@ -1,0 +1,26 @@
+[
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.MainActivity"
+    ],
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.MainActivity"
+    ],
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.ExpenseEditActivity"
+    ],
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.ExpenseEditActivity"
+    ],
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.ExpenseEditActivity"
+    ],
+    [
+        "com.benoitletondor.easybudgetapp",
+        "com.benoitletondor.easybudgetapp.view.MainActivity"
+    ]
+]

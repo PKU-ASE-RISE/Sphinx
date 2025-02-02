@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Find membership card in main menu",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "Display the barcode of membership",
+        "length": 1,
+        "start_index": 1,
+        "end_index": 1
+    }
+]

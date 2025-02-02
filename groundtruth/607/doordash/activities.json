@@ -1,0 +1,34 @@
+[
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.address.AddressActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.address.AddressActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.address.AddressActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.dashboard.DashboardActivity"
+    ],
+    [
+        "com.dd.doordash",
+        "com.doordash.consumer.ui.store.StoreActivity"
+    ]
+]

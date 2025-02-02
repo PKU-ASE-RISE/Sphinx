@@ -1,0 +1,116 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.google.android.keep:id/new_note_button",
+            "class": "android.widget.ImageButton",
+            "package": "com.google.android.keep",
+            "content-desc": "New text note",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[592,1008][704,1120]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "This is a test.",
+        "element": {
+            "index": "3",
+            "text": "Note",
+            "resource-id": "com.google.android.keep:id/edit_note_text",
+            "class": "android.widget.EditText",
+            "package": "com.google.android.keep",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[0,296][768,392]",
+            "drawing-order": "4",
+            "hint": "Note",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Title",
+            "resource-id": "com.google.android.keep:id/editable_title",
+            "class": "android.widget.EditText",
+            "package": "com.google.android.keep",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[40,200][756,296]",
+            "drawing-order": "1",
+            "hint": "Title",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Test",
+        "element": {
+            "index": "0",
+            "text": "Title",
+            "resource-id": "com.google.android.keep:id/editable_title",
+            "class": "android.widget.EditText",
+            "package": "com.google.android.keep",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[40,200][756,296]",
+            "drawing-order": "1",
+            "hint": "Title",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "back",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

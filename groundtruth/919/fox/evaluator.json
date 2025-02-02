@@ -1,0 +1,30 @@
+[
+    {
+        "type": "rule",
+        "order": "sequential",
+        "evaluators": [
+            {
+                "type": "findaction",
+                "match_type": "equal",
+                "match_rules": {
+                    "action_type": "click",
+                    "resource-id": "com.foxnews.android:id/save"
+                },
+                "check_type": "equal",
+                "check_rules": {
+                }
+            },
+            {
+                "type": "findaction",
+                "match_type": "equal",
+                "match_rules": {
+                    "action_type": "click",
+                    "resource-id": "com.foxnews.android:id/save"
+                },
+                "check_type": "equal",
+                "check_rules": {
+                }
+            }
+        ]
+    }
+]

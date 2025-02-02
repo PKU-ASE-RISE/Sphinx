@@ -1,0 +1,14 @@
+[
+    {
+        "name": "select the file in the download",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "delete the select file",
+        "length": 3,
+        "start_index": 2,
+        "end_index": 4
+    }
+]

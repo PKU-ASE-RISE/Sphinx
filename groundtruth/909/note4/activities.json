@@ -1,0 +1,18 @@
+[
+    [
+        "chan.android.app.pocketnote",
+        "chan.android.app.pocketnote.MainActivity"
+    ],
+    [
+        "chan.android.app.pocketnote",
+        "chan.android.app.pocketnote.app.notes.EditNoteActivity"
+    ],
+    [
+        "chan.android.app.pocketnote",
+        "chan.android.app.pocketnote.app.notes.EditNoteActivity"
+    ],
+    [
+        "chan.android.app.pocketnote",
+        "chan.android.app.pocketnote.MainActivity"
+    ]
+]

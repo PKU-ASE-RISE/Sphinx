@@ -1,0 +1,36 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "kdk.android.simplydo:id/AddItemEditText"
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "text": "Delete"
+        },
+        "check_type": "equal",
+        "check_rules": {
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "resource-id": "android:id/button1"
+        },
+        "check_type": "equal",
+        "check_rules": {
+        }
+    }
+]

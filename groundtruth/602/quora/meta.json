@@ -1,0 +1,85 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "",
+            "resource-id": "com.quora.android:id/askButtonWrapper",
+            "class": "android.widget.FrameLayout",
+            "package": "com.quora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[668,53][748,129]",
+            "drawing-order": "4",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "What do you want to ask or share?",
+            "resource-id": "",
+            "class": "android.view.View",
+            "package": "com.quora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[100,207][748,271]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "What are the implications of recent advances in artificial intelligence?",
+        "element": {
+            "index": "0",
+            "text": "\u201cTonight I frustrated someone while driving. They followed me to the gas station and had a few choice words for me. I was really unsure what I did wrong. I began ask if he was ok and what was wrong and if there was anything I can do to make him less angry. He stormed off and I wished him a good day.",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.quora.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,481][730,727]",
+            "drawing-order": "0",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

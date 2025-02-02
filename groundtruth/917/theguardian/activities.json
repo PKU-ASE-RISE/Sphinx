@@ -1,0 +1,22 @@
+[
+    [
+        "com.guardian",
+        "com.guardian.feature.stream.NewHomeActivity"
+    ],
+    [
+        "com.guardian",
+        "com.guardian.feature.stream.NewHomeActivity"
+    ],
+    [
+        "com.guardian",
+        "com.guardian.feature.setting.SettingsActivity"
+    ],
+    [
+        "com.guardian",
+        "com.guardian.feature.setting.SettingsActivity"
+    ],
+    [
+        "com.guardian",
+        "com.guardian.feature.article.ArticleActivity"
+    ]
+]

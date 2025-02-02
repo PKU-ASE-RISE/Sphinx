@@ -1,0 +1,22 @@
+[
+    [
+        "com.gamma.scan",
+        "com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
+    ],
+    [
+        "com.gamma.scan",
+        "com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
+    ],
+    [
+        "com.google.android.apps.photos",
+        "com.google.android.apps.photos.picker.external.ExternalPickerActivity"
+    ],
+    [
+        "com.google.android.apps.photos",
+        "com.google.android.apps.photos.localmedia.ui.LocalPhotosActivity"
+    ],
+    [
+        "com.android.chrome",
+        "com.google.android.apps.chrome.Main"
+    ]
+]

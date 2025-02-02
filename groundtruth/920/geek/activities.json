@@ -1,0 +1,18 @@
+[
+    [
+        "com.contextlogic.geek",
+        "com.contextlogic.wish.activity.browse.BrowseActivity"
+    ],
+    [
+        "com.contextlogic.geek",
+        "com.contextlogic.wish.activity.search.SearchActivity"
+    ],
+    [
+        "com.contextlogic.geek",
+        "com.contextlogic.wish.activity.search.SearchActivity"
+    ],
+    [
+        "com.contextlogic.geek",
+        "com.contextlogic.wish.activity.feed.search.SearchFeedActivity"
+    ]
+]

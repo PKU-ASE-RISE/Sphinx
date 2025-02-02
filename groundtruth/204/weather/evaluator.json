@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/widget_resize_frame"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

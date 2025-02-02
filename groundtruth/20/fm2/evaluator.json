@@ -1,0 +1,10 @@
+[
+    {
+        "type": "lastaction",
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "com.cv.filemanager:id/md_buttonDefaultPositive",
+            "text": "OK"
+        }
+    }
+]

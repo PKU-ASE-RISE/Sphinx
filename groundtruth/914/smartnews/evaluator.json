@@ -1,0 +1,62 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.view.View",
+            "clickable": "true",
+            "long-clickable": "true",
+            "index": "3"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.view.View",
+            "clickable": "true",
+            "long-clickable": "true",
+            "index": "4"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.view.View",
+            "clickable": "true",
+            "long-clickable": "true",
+            "index": "5"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.view.View",
+            "clickable": "true",
+            "long-clickable": "true",
+            "index": "6"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.view.View",
+            "clickable": "true",
+            "long-clickable": "true",
+            "index": "7"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

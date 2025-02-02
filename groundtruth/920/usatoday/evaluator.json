@@ -1,0 +1,21 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.usatoday.android.news:id/edit_text_search",
+            "text": "toy"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.usatoday.android.news:id/section_title_wrapper"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

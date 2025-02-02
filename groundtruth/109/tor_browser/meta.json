@@ -1,0 +1,89 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "CONNECT",
+            "resource-id": "org.torproject.torbrowser:id/tor_bootstrap_connect_button",
+            "class": "android.widget.Button",
+            "package": "org.torproject.torbrowser",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[224,822][544,918]",
+            "drawing-order": "9",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Search or enter address",
+            "resource-id": "org.torproject.torbrowser:id/toolbar",
+            "class": "android.widget.TextView",
+            "package": "org.torproject.torbrowser",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,1107][444,1148]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "History of computer development",
+        "element": {
+            "index": "2",
+            "text": "Search or enter address",
+            "resource-id": "org.torproject.torbrowser:id/mozac_browser_toolbar_edit_url_view",
+            "class": "android.widget.EditText",
+            "package": "org.torproject.torbrowser",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,590][592,670]",
+            "drawing-order": "4",
+            "hint": "Search or enter address",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

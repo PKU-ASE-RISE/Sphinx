@@ -1,0 +1,88 @@
+[
+    {
+        "type": "input",
+        "message": "56.6",
+        "element": {
+            "NAF": "true",
+            "index": "1",
+            "text": "",
+            "resource-id": "com.appsbyvir.tipcalculator:id/billEditText",
+            "class": "android.widget.EditText",
+            "package": "com.appsbyvir.tipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[474,154][734,243]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "20",
+        "element": {
+            "index": "3",
+            "text": "15.0",
+            "resource-id": "com.appsbyvir.tipcalculator:id/tipEditText",
+            "class": "android.widget.EditText",
+            "package": "com.appsbyvir.tipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[474,265][734,354]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "4",
+        "element": {
+            "index": "6",
+            "text": "# of ways",
+            "resource-id": "com.appsbyvir.tipcalculator:id/splitBillEditText",
+            "class": "android.widget.EditText",
+            "package": "com.appsbyvir.tipcalculator",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[474,484][734,573]",
+            "drawing-order": "11",
+            "hint": "# of ways",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

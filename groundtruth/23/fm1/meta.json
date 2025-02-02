@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Storage Analysis",
+            "resource-id": "com.alphainventor.filemanager:id/name",
+            "class": "android.widget.TextView",
+            "package": "com.alphainventor.filemanager",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[506,338][735,381]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

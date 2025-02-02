@@ -1,0 +1,12 @@
+[
+	{
+		"type": "stoppage",
+		"match_type": "equal",
+		"match_rules": {
+			"resource-id": "com.spotify.music:id/context_header_subtitle",
+			"text": "Chill Beats"
+		},
+		"check_type": "equal",
+		"check_rules": {}
+	}
+]

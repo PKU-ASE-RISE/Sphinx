@@ -1,0 +1,673 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<hierarchy rotation="0">
+
+  <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_frame" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_view" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/navigation_inflater" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/horizontal" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="com.android.systemui:id/nav_buttons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/ends_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][89,1280]" drawing-order="1" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/back" class="android.widget.ImageView" package="com.android.systemui" content-desc="Back" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/recent_apps" class="android.widget.ImageView" package="com.android.systemui" content-desc="Overview" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="3" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="5" hint="" display-id="0" />
+
+            </node>
+
+            <node index="1" text="" resource-id="com.android.systemui:id/center_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/home" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/home_button" class="android.widget.ImageView" package="com.android.systemui" content-desc="Home" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="5" hint="" display-id="0" />
+
+                <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0" />
+
+                <node index="2" text="" resource-id="com.android.systemui:id/white_cutout" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="3" hint="" display-id="0" />
+
+                <node index="3" text="" resource-id="com.android.systemui:id/white" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="4" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.ticktick.task:id/action_bar_root" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.ticktick.task:id/layout_background" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.ticktick.task:id/iv_main_bg" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="com.ticktick.task:id/custom_background" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="2" hint="" display-id="0" />
+
+              <node index="2" text="" resource-id="com.ticktick.task:id/drawer_layout" class="com.ticktick.task.view.TaskDrawerLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="3" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.ticktick.task:id/arrange_task_drawer_layout" class="com.ticktick.task.view.ArrangeTaskDrawerLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.ticktick.task:id/layout_colorful_theme" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.ticktick.task:id/drag_chip_overlay" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,1184]" drawing-order="4" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="com.ticktick.task:id/layout_main_pane" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.ticktick.task:id/main_content" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                        <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,1068]" drawing-order="2" hint="" display-id="0">
+
+                          <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/add_task_btn" class="android.widget.ImageButton" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[624,924][736,1036]" drawing-order="2" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="1" text="" resource-id="com.ticktick.task:id/fragment_container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/toolbar" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][764,160]" drawing-order="1" hint="" display-id="0">
+
+                            <node NAF="true" index="0" text="" resource-id="" class="android.widget.ImageButton" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][112,160]" drawing-order="1" hint="" display-id="0" />
+
+                            <node index="1" text="" resource-id="com.ticktick.task:id/content_view" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,48][668,160]" drawing-order="2" hint="" display-id="0">
+
+                              <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,48][668,160]" drawing-order="1" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="com.ticktick.task:id/title_layout" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="false" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,48][355,160]" drawing-order="1" hint="" display-id="0">
+
+                                  <node index="0" text=".. Welcome" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,77][343,131]" drawing-order="1" hint="" display-id="0" />
+
+                                </node>
+
+                              </node>
+
+                            </node>
+
+                            <node index="2" text="" resource-id="" class="androidx.appcompat.widget.LinearLayoutCompat" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[668,48][764,160]" drawing-order="3" hint="" display-id="0">
+
+                              <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/action_more" class="android.widget.Button" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[668,56][764,152]" drawing-order="1" hint="" display-id="0" />
+
+                            </node>
+
+                          </node>
+
+                          <node index="1" text="" resource-id="com.ticktick.task:id/refresh_layout" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1068]" drawing-order="2" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="com.ticktick.task:id/list_container" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                              <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1068]" drawing-order="3" hint="" display-id="0" />
+
+                                <node index="1" text="" resource-id="com.ticktick.task:id/list" class="androidx.recyclerview.widget.RecyclerView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="true" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1068]" drawing-order="1" hint="" display-id="0">
+
+                                  <node index="0" text="" resource-id="com.ticktick.task:id/container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,180][748,260]" drawing-order="1" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/content" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,180][748,260]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="Getting Started" resource-id="com.ticktick.task:id/listSeparator_label" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[46,196][227,244]" drawing-order="3" hint="" display-id="0" />
+
+                                      <node index="1" text="2" resource-id="com.ticktick.task:id/tv_label_children_count" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[677,203][690,236]" drawing-order="7" hint="" display-id="0" />
+
+                                      <node index="2" text="" resource-id="com.ticktick.task:id/ic_label_folded" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,202][728,238]" drawing-order="8" hint="" display-id="0" />
+
+                                    </node>
+
+                                  </node>
+
+                                  <node index="1" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,260][748,348]" drawing-order="2" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,260][102,348]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,286][86,322]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text="✅ Create tasks, free up your mind" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,283][688,326]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,288][728,320]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,288][728,320]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,292][722,316]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,260][748,348]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="2" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,348][748,436]" drawing-order="3" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,348][102,436]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,374][86,410]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text=".. Use lists to manage tasks" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,371][688,414]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,376][728,408]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,376][728,408]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,380][722,404]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,348][748,436]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="3" text="" resource-id="com.ticktick.task:id/container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,436][748,536]" drawing-order="4" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/top_gap" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,436][748,456]" drawing-order="1" hint="" display-id="0" />
+
+                                    <node index="1" text="" resource-id="com.ticktick.task:id/content" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,456][748,536]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="Key Features" resource-id="com.ticktick.task:id/listSeparator_label" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[46,472][198,520]" drawing-order="3" hint="" display-id="0" />
+
+                                      <node index="1" text="5" resource-id="com.ticktick.task:id/tv_label_children_count" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[677,479][690,512]" drawing-order="7" hint="" display-id="0" />
+
+                                      <node index="2" text="" resource-id="com.ticktick.task:id/ic_label_folded" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,478][728,514]" drawing-order="8" hint="" display-id="0" />
+
+                                    </node>
+
+                                  </node>
+
+                                  <node index="4" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,536][748,624]" drawing-order="5" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,536][102,624]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,562][86,598]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text=".. Calendar: Check your schedule" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,559][688,602]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,564][728,596]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,564][728,596]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,568][722,592]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,536][748,624]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="5" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,624][748,712]" drawing-order="6" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,624][102,712]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,650][86,686]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text=".. Eisenhower Matrix: Prioritize tasks" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,647][688,690]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,652][728,684]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,652][728,684]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,656][722,680]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,624][748,712]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="6" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,712][748,800]" drawing-order="7" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,712][102,800]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,738][86,774]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text=".. Pomo: Beat procrastination" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,735][688,778]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,740][728,772]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,740][728,772]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,744][722,768]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,712][748,800]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="7" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,800][748,888]" drawing-order="8" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,800][102,888]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,826][86,862]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text="⏰ Habit: Visualize your efforts" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,823][688,866]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,828][728,860]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,828][728,860]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,832][722,856]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,800][748,888]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="8" text="" resource-id="" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,888][748,976]" drawing-order="9" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/checkbox_wrap" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,888][102,976]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/checkbox" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[50,914][86,950]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                    <node index="1" text="✨ More amazing features" resource-id="com.ticktick.task:id/title" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[102,911][688,954]" drawing-order="3" hint="No Title" display-id="0" />
+
+                                    <node index="2" text="" resource-id="com.ticktick.task:id/ll_dateIcon" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,916][728,948]" drawing-order="4" hint="" display-id="0">
+
+                                      <node index="0" text="" resource-id="com.ticktick.task:id/indicator" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,916][728,948]" drawing-order="2" hint="" display-id="0">
+
+                                        <node index="0" text="" resource-id="com.ticktick.task:id/icon_note" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[698,920][722,944]" drawing-order="5" hint="" display-id="0" />
+
+                                      </node>
+
+                                    </node>
+
+                                    <node index="3" text="" resource-id="com.ticktick.task:id/view_goneMargin" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[724,888][748,976]" drawing-order="7" hint="" display-id="0" />
+
+                                  </node>
+
+                                  <node index="9" text="" resource-id="com.ticktick.task:id/container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[20,976][748,1068]" drawing-order="10" hint="" display-id="0">
+
+                                    <node index="0" text="" resource-id="com.ticktick.task:id/top_gap" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,976][748,996]" drawing-order="1" hint="" display-id="0" />
+
+                                    <node index="1" text="" resource-id="com.ticktick.task:id/content" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[20,996][748,1068]" drawing-order="2" hint="" display-id="0">
+
+                                      <node index="0" text="Explore More" resource-id="com.ticktick.task:id/listSeparator_label" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[46,1012][203,1060]" drawing-order="3" hint="" display-id="0" />
+
+                                      <node index="1" text="2" resource-id="com.ticktick.task:id/tv_label_children_count" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[677,1019][690,1052]" drawing-order="7" hint="" display-id="0" />
+
+                                      <node index="2" text="" resource-id="com.ticktick.task:id/ic_label_folded" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[692,1018][728,1054]" drawing-order="8" hint="" display-id="0" />
+
+                                    </node>
+
+                                  </node>
+
+                                </node>
+
+                              </node>
+
+                            </node>
+
+                          </node>
+
+                        </node>
+
+                      </node>
+
+                    </node>
+
+                    <node index="2" text="" resource-id="com.ticktick.task:id/tooltip_anchor" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[767,128][768,129]" drawing-order="3" hint="" display-id="0" />
+
+                    <node index="3" text="" resource-id="com.ticktick.task:id/bottom_list" class="android.widget.GridView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1068][768,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1068][256,1184]" drawing-order="1" hint="" display-id="0">
+
+                        <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[0,1068][256,1184]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/icon" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[96,1094][160,1158]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                      </node>
+
+                      <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[256,1068][512,1184]" drawing-order="2" hint="" display-id="0">
+
+                        <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/container" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[256,1068][512,1184]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/icon" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1094][416,1158]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                      </node>
+
+                      <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[512,1068][768,1184]" drawing-order="3" hint="" display-id="0">
+
+                        <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/container" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[512,1068][768,1184]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/icon" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[608,1094][672,1158]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                      </node>
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+                <node index="1" text="" resource-id="com.ticktick.task:id/tvdl_task" class="android.view.ViewGroup" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="3" hint="" display-id="0" />
+
+                <node index="2" text="" resource-id="com.ticktick.task:id/nav_view" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="4" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.ticktick.task:id/menu_frame" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.ticktick.task:id/slide_menu_bg" class="android.widget.ImageView" package="com.ticktick.task" content-desc="Custom" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="1" hint="" display-id="0" />
+
+                      <node index="1" text="" resource-id="com.ticktick.task:id/slide_menu_mask" class="android.widget.ImageView" package="com.ticktick.task" content-desc="Custom" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="3" hint="" display-id="0" />
+
+                      <node index="2" text="" resource-id="com.ticktick.task:id/slide_menu_colorful_bg" class="android.widget.ImageView" package="com.ticktick.task" content-desc="Custom" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="4" hint="" display-id="0" />
+
+                      <node index="3" text="" resource-id="com.ticktick.task:id/fit_layout" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1280]" drawing-order="5" hint="" display-id="0">
+
+                        <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,1072]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/user_info_menu_head_layout" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,228]" drawing-order="2" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="com.ticktick.task:id/slide_content" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][656,228]" drawing-order="1" hint="" display-id="0">
+
+                              <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][656,228]" drawing-order="1" hint="" display-id="0">
+
+                                <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/avatar" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,90][128,186]" drawing-order="1" hint="" display-id="0" />
+
+                                <node index="1" text="" resource-id="com.ticktick.task:id/sign_in_up_btn" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[160,106][412,170]" drawing-order="3" hint="" display-id="0">
+
+                                  <node index="0" text="Sign in or Sign up" resource-id="com.ticktick.task:id/no_account_text" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[160,106][412,170]" drawing-order="1" hint="" display-id="0" />
+
+                                </node>
+
+                                <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[160,113][500,162]" drawing-order="4" hint="" display-id="0" />
+
+                                <node index="3" text="" resource-id="com.ticktick.task:id/iconlayout" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[516,102][656,174]" drawing-order="5" hint="" display-id="0">
+
+                                  <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[516,102][656,174]" drawing-order="1" hint="" display-id="0">
+
+                                    <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/search_btn" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[516,108][576,168]" drawing-order="1" hint="" display-id="0" />
+
+                                    <node index="1" text="" resource-id="com.ticktick.task:id/settings_btn_layout" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[576,108][636,168]" drawing-order="3" hint="" display-id="0">
+
+                                      <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/settings_btn" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[576,108][636,168]" drawing-order="1" hint="" display-id="0" />
+
+                                    </node>
+
+                                  </node>
+
+                                </node>
+
+                              </node>
+
+                            </node>
+
+                          </node>
+
+                          <node index="1" text="" resource-id="com.ticktick.task:id/recyclerView" class="androidx.recyclerview.widget.RecyclerView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,228][656,1072]" drawing-order="3" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,228][656,320]" drawing-order="1" hint="" display-id="0">
+
+                              <node index="1" text="" resource-id="com.ticktick.task:id/left_view" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[8,228][92,320]" drawing-order="3" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[14,238][86,310]" drawing-order="1" hint="" display-id="0">
+
+                                  <node index="0" text="" resource-id="com.ticktick.task:id/left" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,256][68,292]" drawing-order="1" hint="" display-id="0" />
+
+                                </node>
+
+                              </node>
+
+                              <node index="2" text="Today" resource-id="com.ticktick.task:id/name" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[92,228][632,320]" drawing-order="4" hint="" display-id="0" />
+
+                              <node index="3" text="" resource-id="com.ticktick.task:id/right_layout" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[632,228][656,320]" drawing-order="5" hint="" display-id="0" />
+
+                            </node>
+
+                            <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,320][656,412]" drawing-order="2" hint="" display-id="0">
+
+                              <node index="1" text="" resource-id="com.ticktick.task:id/left_view" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[8,320][92,412]" drawing-order="3" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[14,330][86,402]" drawing-order="1" hint="" display-id="0">
+
+                                  <node index="0" text="" resource-id="com.ticktick.task:id/left" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,348][68,384]" drawing-order="1" hint="" display-id="0" />
+
+                                </node>
+
+                              </node>
+
+                              <node index="2" text="Inbox" resource-id="com.ticktick.task:id/name" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[92,320][632,412]" drawing-order="4" hint="" display-id="0" />
+
+                              <node index="3" text="" resource-id="com.ticktick.task:id/right_layout" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[632,320][656,412]" drawing-order="5" hint="" display-id="0" />
+
+                            </node>
+
+                            <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[0,412][656,504]" drawing-order="3" hint="" display-id="0">
+
+                              <node index="1" text="" resource-id="com.ticktick.task:id/left_view" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[8,412][92,504]" drawing-order="3" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[14,422][86,494]" drawing-order="1" hint="" display-id="0">
+
+                                  <node index="0" text=".." resource-id="com.ticktick.task:id/leftTV" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[14,422][86,494]" drawing-order="2" hint="" display-id="0" />
+
+                                </node>
+
+                              </node>
+
+                              <node index="2" text="Welcome" resource-id="com.ticktick.task:id/name" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[92,412][614,504]" drawing-order="4" hint="" display-id="0" />
+
+                              <node index="3" text="" resource-id="com.ticktick.task:id/right_layout" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[614,412][656,504]" drawing-order="5" hint="" display-id="0">
+
+                                <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[614,412][632,504]" drawing-order="2" hint="" display-id="0">
+
+                                  <node index="0" text="9" resource-id="com.ticktick.task:id/task_count" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[614,412][630,504]" drawing-order="1" hint="" display-id="0" />
+
+                                </node>
+
+                              </node>
+
+                            </node>
+
+                            <node index="3" text="" resource-id="" class="android.view.View" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,504][656,520]" drawing-order="4" hint="" display-id="0" />
+
+                          </node>
+
+                        </node>
+
+                        <node index="1" text="" resource-id="com.ticktick.task:id/layout_bottom" class="android.widget.FrameLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1072][656,1184]" drawing-order="2" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.ticktick.task:id/bottom_slide_menu_mask" class="android.widget.ImageView" package="com.ticktick.task" content-desc="Custom" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1072][656,1184]" drawing-order="1" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.ticktick.task:id/slide_menu_bottom_colorful_bg" class="android.widget.ImageView" package="com.ticktick.task" content-desc="Custom" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1072][656,1184]" drawing-order="2" hint="" display-id="0" />
+
+                          <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1072][544,1184]" drawing-order="3" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="com.ticktick.task:id/layout_add_project" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1093][159,1163]" drawing-order="1" hint="" display-id="0">
+
+                              <node index="0" text="" resource-id="com.ticktick.task:id/iv_add_project" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,1110][68,1146]" drawing-order="1" hint="" display-id="0" />
+
+                              <node index="1" text="Add" resource-id="com.ticktick.task:id/tv_add_list" class="android.widget.TextView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[92,1109][143,1147]" drawing-order="2" hint="" display-id="0" />
+
+                            </node>
+
+                          </node>
+
+                          <node index="3" text="" resource-id="" class="android.widget.RelativeLayout" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[548,1072][656,1184]" drawing-order="4" hint="" display-id="0">
+
+                            <node NAF="true" index="0" text="" resource-id="com.ticktick.task:id/iv_manage_project" class="android.widget.ImageView" package="com.ticktick.task" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[566,1092][638,1164]" drawing-order="1" hint="" display-id="0" />
+
+                          </node>
+
+                        </node>
+
+                      </node>
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/status_bar_launch_animation_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0" />
+
+    <node index="1" text="" resource-id="com.android.systemui:id/status_bar_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="2" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/status_bar" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/status_bar_contents" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][728,48]" drawing-order="2" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/status_bar_left_side" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="9:11" resource-id="com.android.systemui:id/clock" class="android.widget.TextView" package="com.android.systemui" content-desc="9:11 PM" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][85,48]" drawing-order="2" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="com.android.systemui:id/notification_icon_area" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/notification_icon_area_inner" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/notificationIcons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Gmail notification: 153 new messages" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][129,48]" drawing-order="1" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="ATX notification: UIAutomator" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[129,0][173,48]" drawing-order="2" hint="" display-id="0" />
+
+                    <node index="2" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Google Play services notification: Google Contacts sync complete" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[173,0][217,48]" drawing-order="3" hint="" display-id="0" />
+
+                    <node index="3" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Settings notification: Virtual SD card" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[217,0][261,48]" drawing-order="4" hint="" display-id="0" />
+
+                    <node index="4" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Android System notification: Serial console enabled" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[261,0][305,48]" drawing-order="5" hint="" display-id="0" />
+
+                    <node index="5" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Google notification: Weather in Milpitas" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[275,0][319,48]" drawing-order="6" hint="" display-id="0" />
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+          <node index="1" text="" resource-id="com.android.systemui:id/system_icon_area" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="4" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/system_icons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/statusIcons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][696,48]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/wifi_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="Wifi signal full." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[619,2][654,46]" drawing-order="15" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/wifi_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[624,2][654,46]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.android.systemui:id/wifi_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[624,9][654,39]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.android.systemui:id/wifi_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[624,9][654,39]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+                <node index="1" text="" resource-id="com.android.systemui:id/mobile_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="Phone signal full." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,2][684,46]" drawing-order="17" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/mobile_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,2][684,46]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="4" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.android.systemui:id/mobile_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+              <node index="1" text="" resource-id="com.android.systemui:id/battery" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="Battery 100 percent." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,0][712,48]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,11][712,37]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+</hierarchy>

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "resource-id": "com.anishu.homebudget.lite:id/editText6"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

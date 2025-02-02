@@ -1,0 +1,18 @@
+[
+    [
+        "org.edx.mobile",
+        "org.edx.mobile.view.MainDashboardActivity"
+    ],
+    [
+        "org.edx.mobile",
+        "org.edx.mobile.view.MainDashboardActivity"
+    ],
+    [
+        "org.edx.mobile",
+        "org.edx.mobile.view.MainDashboardActivity"
+    ],
+    [
+        "org.edx.mobile",
+        "org.edx.mobile.view.DiscoveryLaunchActivity"
+    ]
+]

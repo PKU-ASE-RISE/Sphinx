@@ -1,0 +1,14 @@
+[
+    {
+        "name": "swipe",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "click the Storage Analyzer",
+        "length": 1,
+        "start_index": 1,
+        "end_index": 1
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/tv_price"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "- 50"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/tv_category"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Food"
+        }
+    }
+]

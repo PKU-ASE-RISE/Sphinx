@@ -1,0 +1,25 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "kdk.android.simplydo:id/AddItemEditText"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Sample Todo",
+            "class": "android.widget.TextView"
+        },
+        "check_type": "equal",
+        "check_rules": {
+        }
+    }
+]

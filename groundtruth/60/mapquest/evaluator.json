@@ -1,0 +1,12 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.mapquest.android.ace:id/primary_text",
+            "text": "McDonald's"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

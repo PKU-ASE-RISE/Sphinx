@@ -1,0 +1,11 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "content-desc": "Selected Distance"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

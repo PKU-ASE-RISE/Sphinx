@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "2",
+            "text": "",
+            "resource-id": "",
+            "class": "android.widget.TextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "Search",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[656,56][768,152]",
+            "drawing-order": "3",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "toy",
+        "element": {
+            "index": "0",
+            "text": "Search",
+            "resource-id": "com.contextlogic.geek:id/search_src_text",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "com.contextlogic.geek",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[208,67][752,139]",
+            "drawing-order": "1",
+            "hint": "Search",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

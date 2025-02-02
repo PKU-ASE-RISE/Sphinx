@@ -1,0 +1,11 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.google.android.gm:id/compose_toolbar"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

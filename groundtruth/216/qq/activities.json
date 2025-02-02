@@ -1,0 +1,34 @@
+[
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.profilecard.activity.FriendProfileCardActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.QPublicFragmentActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.QPublicFragmentActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.photo.album.NewPhotoListActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.photo.PhotoCropForPortraitActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.QPublicFragmentActivity"
+    ]
+]

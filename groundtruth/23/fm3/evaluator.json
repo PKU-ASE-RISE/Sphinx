@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.asus.filemanager:id/app_bar_layout"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "activity": "com.asus.filemanager.activity.StorageAnalyzerActivity"
+        }
+    }
+]

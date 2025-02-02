@@ -1,0 +1,22 @@
+[
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.SingleFragmentActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.SingleFragmentActivity"
+    ],
+    [
+        "com.fitnow.loseit",
+        "com.fitnow.loseit.LoseItActivity"
+    ]
+]

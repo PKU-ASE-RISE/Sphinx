@@ -1,0 +1,21 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "jp.gocro.smartnews.android:id/search_src_text",
+            "text": "toy"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "jp.gocro.smartnews.android:id/article"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "resource-id": "android:id/button1"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "android:id/message"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "test"
+        }
+    },
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "resource-id": "com.todoist:id/item_submit",
+            "action_type": "click",
+            "text": "Save"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "com.todoist:id/item_content"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "test two"
+        }
+    },
+    {
+        "type": "findelementbyaction",
+        "action_match_type": "equal",
+        "action_match_rules": {
+            "action_type": "click",
+            "resource-id": "android:id/button1"
+        },
+        "element_match_type": "equal",
+        "element_match_rules": {
+            "resource-id": "android:id/message"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "test two"
+        }
+    }
+]

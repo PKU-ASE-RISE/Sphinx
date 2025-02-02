@@ -1,0 +1,22 @@
+[
+    [
+        "com.thomsonreuters.reuters",
+        "com.thomsonreuters.reuters.activities.HomepageActivity"
+    ],
+    [
+        "com.thomsonreuters.reuters",
+        "com.thomsonreuters.reuters.activities.HomepageActivity"
+    ],
+    [
+        "com.thomsonreuters.reuters",
+        "com.thomsonreuters.reuters.activities.SettingsActivity"
+    ],
+    [
+        "com.thomsonreuters.reuters",
+        "com.thomsonreuters.reuters.activities.SettingsActivity"
+    ],
+    [
+        "android",
+        "com.android.internal.app.ResolverActivity"
+    ]
+]

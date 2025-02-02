@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click",
+            "resource-id": "com.google.android.deskclock:id/fab",
+            "content-desc": "Start"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Find change password in setting",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "Input old and new password",
+        "length": 7,
+        "start_index": 2,
+        "end_index": 8
+    },
+    {
+        "name": "Confirm the change of password",
+        "length": 2,
+        "start_index": 9,
+        "end_index": 10
+    }
+]

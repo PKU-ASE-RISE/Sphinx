@@ -1,0 +1,26 @@
+[
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.ui.LauncherUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.profile.ui.ContactInfoUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.profile.ui.ProfileSettingUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.profile.ui.ProfileSettingUI"
+    ],
+    [
+        "com.tencent.mm",
+        "com.tencent.mm.plugin.profile.ui.ProfileSettingUI"
+    ]
+]

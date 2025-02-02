@@ -1,0 +1,12 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.pandora.android:id/toolbar_title",
+            "text": "The Most Popular Song"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

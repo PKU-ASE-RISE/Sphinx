@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Clear Filters"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "Clear Filters"
+        }
+    }
+]

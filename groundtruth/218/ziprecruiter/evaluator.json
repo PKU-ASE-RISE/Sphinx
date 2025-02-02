@@ -1,0 +1,11 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "sample-resume.pdf"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.buzzfeed.android:id/actionbar_title_text",
+            "text": "Politics"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

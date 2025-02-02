@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "class": "android.widget.ImageView"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "action_type": "click"
+        }
+    }
+]

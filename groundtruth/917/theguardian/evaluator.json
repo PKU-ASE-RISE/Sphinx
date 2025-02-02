@@ -1,0 +1,12 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "headline",
+            "text": "Guardian app for Android FAQs"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

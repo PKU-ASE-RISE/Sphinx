@@ -1,0 +1,25 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "douzifly.list:id/edit_text"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "douzifly.list:id/txt_thing"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Sample Todo"
+        }
+    }
+]

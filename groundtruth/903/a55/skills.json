@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Set values for bill total, tip rate",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "Calculate",
+        "length": 1,
+        "start_index": 1,
+        "end_index": 1
+    },
+    {
+        "name": "Share",
+        "length": 1,
+        "start_index": 2,
+        "end_index": 2
+    }
+]

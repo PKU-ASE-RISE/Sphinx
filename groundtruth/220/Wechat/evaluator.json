@@ -1,0 +1,20 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "click"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "findelement",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.tencent.mm:id/mm_alert_ok_btn"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

@@ -1,0 +1,30 @@
+[
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ],
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ],
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ],
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ],
+    [
+        "com.google.android.documentsui",
+        "com.android.documentsui.picker.PickActivity"
+    ],
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ],
+    [
+        "com.ziprecruiter.android.release",
+        "com.ziprecruiter.android.features.main.MainActivity"
+    ]
+]

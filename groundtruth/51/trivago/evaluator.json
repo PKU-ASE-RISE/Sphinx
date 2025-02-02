@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.trivago:id/fragmentAccommodationSearchResultsExpandedDealformDestinationTextView",
+            "text": "Paris"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.trivago:id/fragmentAccommodationSearchResultsExpandedDealformRoomTextView",
+            "text": "2 guests, 1 room"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

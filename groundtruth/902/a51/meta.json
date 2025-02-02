@@ -1,0 +1,87 @@
+[
+    {
+        "type": "input",
+        "message": "56.6",
+        "element": {
+            "index": "1",
+            "text": "0.00",
+            "resource-id": "anti.tip:id/bill",
+            "class": "android.widget.EditText",
+            "package": "anti.tip",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[384,72][768,187]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "4",
+        "element": {
+            "index": "1",
+            "text": "1",
+            "resource-id": "anti.tip:id/people",
+            "class": "android.widget.EditText",
+            "package": "anti.tip",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[384,187][768,302]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "20",
+        "element": {
+            "index": "1",
+            "text": "15",
+            "resource-id": "anti.tip:id/percent",
+            "class": "android.widget.EditText",
+            "package": "anti.tip",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[384,302][768,417]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "cici"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "cici"
+        }
+    }
+]

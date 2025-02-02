@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.jpstudiosonline.tipcalculator:id/tvPersonPay"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "$ 16.98"
+        }
+    }
+]

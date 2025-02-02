@@ -1,0 +1,22 @@
+[
+    [
+        "org.mozilla.firefox",
+        "org.mozilla.firefox.App"
+    ],
+    [
+        "org.mozilla.firefox",
+        "PopupWindow"
+    ],
+    [
+        "org.mozilla.firefox",
+        "org.mozilla.firefox.App"
+    ],
+    [
+        "org.mozilla.firefox",
+        "org.mozilla.firefox.App"
+    ],
+    [
+        "org.mozilla.firefox",
+        "org.mozilla.firefox.App"
+    ]
+]

@@ -1,0 +1,26 @@
+[
+    [
+        "com.meesho.supply",
+        "com.meesho.supply.main.HomeActivity"
+    ],
+    [
+        "com.meesho.supply",
+        "com.meesho.search.impl.SearchActivity"
+    ],
+    [
+        "com.meesho.supply",
+        "com.meesho.search.impl.SearchActivity"
+    ],
+    [
+        "com.meesho.supply",
+        "com.meesho.search.impl.SearchResultsActivity"
+    ],
+    [
+        "com.meesho.supply",
+        "com.meesho.search.impl.SearchResultsActivity"
+    ],
+    [
+        "com.meesho.supply",
+        "com.meesho.discovery.pdp.impl.SingleProductActivity"
+    ]
+]

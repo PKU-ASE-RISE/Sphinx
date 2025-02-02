@@ -1,0 +1,37 @@
+[
+    {
+        "type": "input",
+        "message": "toy",
+        "element": {
+            "index": "0",
+            "text": "Search for anything on Etsy",
+            "resource-id": "com.etsy.android:id/search_src_text",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "com.etsy.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,68][768,140]",
+            "drawing-order": "1",
+            "hint": "Search for anything on Etsy",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

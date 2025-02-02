@@ -1,0 +1,24 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.benoitletondor.easybudgetapp:id/expense_title"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Food"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.benoitletondor.easybudgetapp:id/expense_amount"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "-$50.00"
+        }
+    }
+]

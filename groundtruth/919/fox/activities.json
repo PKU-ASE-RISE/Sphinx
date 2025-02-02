@@ -1,0 +1,18 @@
+[
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.corenav.StartActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.feature.articledetail.ArticleDetailActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.feature.articledetail.ArticleDetailActivity"
+    ],
+    [
+        "com.foxnews.android",
+        "com.foxnews.android.feature.articledetail.ArticleDetailActivity"
+    ]
+]

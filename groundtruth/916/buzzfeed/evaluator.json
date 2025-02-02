@@ -1,0 +1,20 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.buzzfeed.android:id/menu_bookmark"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.buzzfeed.android:id/menu_share"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

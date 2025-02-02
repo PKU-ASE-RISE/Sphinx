@@ -1,0 +1,11 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "connect you to an agent"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]

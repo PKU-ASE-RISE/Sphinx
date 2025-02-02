@@ -1,0 +1,22 @@
+[
+    [
+        "jp.gocro.smartnews.android",
+        "jp.gocro.smartnews.android.activity.MainActivity"
+    ],
+    [
+        "jp.gocro.smartnews.android",
+        "jp.gocro.smartnews.android.activity.SettingActivity"
+    ],
+    [
+        "jp.gocro.smartnews.android",
+        "jp.gocro.smartnews.android.activity.SettingActivity"
+    ],
+    [
+        "jp.gocro.smartnews.android",
+        "jp.gocro.smartnews.android.activity.SettingAboutActivity"
+    ],
+    [
+        "jp.gocro.smartnews.android",
+        "jp.gocro.smartnews.android.activity.WebPageActivity"
+    ]
+]

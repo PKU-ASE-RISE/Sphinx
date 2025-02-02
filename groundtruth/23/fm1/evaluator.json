@@ -1,0 +1,13 @@
+[
+    {
+        "type": "findelement",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Storage Analysis"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "com.alphainventor.filemanager:id/title"
+        }
+    }
+]

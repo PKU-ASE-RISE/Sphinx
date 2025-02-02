@@ -1,0 +1,109 @@
+apk_name,package_name,username,password,category
+a13,com.stoutner.privacybrowser.standard,,,Communications
+a14,de.baumann.browser,,,Communications
+a15,org.mozilla.focus,,,Communications
+a21,com.rubenroy.minimaltodo,,,Productivity
+a22,douzifly.list,,,Productivity
+a23,org.secuso.privacyfriendlytodolist,,,Productivity
+a24,kdk.android.simplydo,,,Productivity
+a25,com.woefe.shoppinglist,,,Productivity
+a51,anti.tip,,,Finance
+a52,com.appsbyvir.tipcalculator,,,Finance
+a53,com.tleapps.simpletipcalculator,,,Finance
+a54,com.zaidisoft.teninone,,,Finance
+a55,com.jpstudiosonline.tipcalculator,,,Finance
+expense1,com.benoitletondor.easybudgetapp,,,Finance
+expense2,luankevinferreira.expenses,,,Finance
+expense3,com.kvannli.simonkvannli.dailybudget,,,Finance
+expense4,com.blogspot.e_kanivets.moneytracker,,,Finance
+shop1,pl.com.andrzejgrzyb.shoppinglist,,,Shopping
+shop2,br.com.activity,,,Shopping
+shop3,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist,,,Shopping
+shop4,org.openintents.shopping,,,Shopping
+note2,com.moonpi.swiftnotes,,,Productivity
+note3,me.writeily,,,Productivity
+note4,chan.android.app.pocketnote,,,Productivity
+abc,com.abc.abcnews,,,News and Magazines
+etsy,com.etsy.android,,,News and Magazines
+fox,com.foxnews.android,,,News and Magazines
+reuters,com.thomsonreuters.reuters,,,News and Magazines
+smartnews,jp.gocro.smartnews.android,,,News and Magazines
+theguardian,com.guardian,,,News and Magazines
+usatoday,com.usatoday.android.news,,,News and Magazines
+ticktick,com.ticktick.task,,,Productivity
+googlekeep,com.google.android.keep,,,Productivity
+obsidian,md.obsidian,,,Productivity
+qr_barcode_reader,com.gamma.scan,,,Tools
+barcode_scanner,com.teacapps.barcodescanner,,,Tools
+qr_code_scanner,com.udagrastudios.qrandbarcodescanner,,,Tools
+mynetdiary,com.fourtechnologies.mynetdiary.ad,,,Health and Fitness
+home_budget,com.anishu.homebudget.lite,,,Finance
+money,com.kb404.money,,,Finance
+translate,free.translate.all.language.translator,,,Education
+thingslist,thing.list.nichan,,,Productivity
+google_chrome,com.android.chrome,,,Communications
+firefox,org.mozilla.firefox,,,Communications
+tor_browser,org.torproject.torbrowser,,,Communications
+fm1,com.alphainventor.filemanager,,,Tools
+fm2,com.cv.filemanager,,,Tools
+fm3,com.asus.filemanager,,,Tools
+fm4,com.ace.ex.file.manager,,,Tools
+wallpaper1,com.rr.lordshivawallpapers,,,Personalization
+wallpaper2,com.app2game.aquarium.live.wallpaper.free,,,Personalization
+wallpaper3,awesome.wallpapers.for.android,,,Personalization
+weather1,com.weather.forecast.weatherchannel,,,Weather
+weather2,com.macropinch.swan,,,Weather
+weather3,com.fotoable.temperature.weather,,,Weather
+fs1,com.lenovo.anyshare.gps,,,Tools
+fs2,sharefiles.sharemusic.shareapps.filetransfer,,,Tools
+fs3,cn.xender,,,Tools
+amazon,com.amazon.mShop.android.shopping,,,Shopping
+shein,com.zzkko,,,Shopping
+meesho,com.meesho.supply,,,Shopping
+agoda,com.agoda.mobile.consumer,,,Travel and Local
+booking,com.booking,,,Travel and Local
+mapquest,com.mapquest.android.ace,,,Maps and Navigation
+pandora,com.pandora.android,,,Music and Audio
+trivago,com.trivago,,,Travel and Local
+waze,com.waze,,,Maps and Navigation
+===Google auto===,,,,
+quora,com.quora.android,,,News and Magazines
+reddit,com.reddit.frontpage,,,Social
+doordash,com.dd.doordash,,,Food and Drink
+edx,org.edx.mobile,,,Education
+ubereats,com.ubercab.eats,,,Food and Drink
+chewy,com.chewy.android,,,Shopping
+rover,com.rover.android,,,Travel and Local
+vitusvet,com.vitusvet.android,,,Medical
+tractor,com.consumerapp_v1,,,Shopping
+uber,com.ubercab,,,Travel and Local
+googlemap,com.google.android.apps.maps,,,Maps and Navigation
+ziprecruiter,com.ziprecruiter,,,Business
+maps,com.google.android.apps.maps,,,Maps and Navigation
+youtubemusic,com.google.android.apps.youtube.music,,,Music and Audio
+===No login===,,,,
+transit,com.thetransitapp.droid,,,Maps and Navigation
+moovit,com.tranzmate,,,Maps and Navigation
+citymapper,com.citymapper.app.release,,,Maps and Navigation
+deskclock,com.google.android.deskclock,,,Tools
+timer,xyz.dw1.timer,,,Tools
+weather,com.weather.forecast.weatherchannel,,,Weather
+weatherforecast,com.graph.weather.forecast.channel,,,Weather
+chrome,com.android.chrome,,,Communications
+firefox2,org.mozilla.firefox,,,Communications
+edge,com.microsoft.emmx,,,Communications
+duckduckgo,com.duckduckgo.mobile.android,,,Communications
+herewego,com.here,,,Maps and Navigation
+waze2,com.waze,,,Maps and Navigation
+===need login(email)===,,,,
+instagram,com.instagram.android,,,Communications
+buzzfeed,com.buzzfeed.android,,,News and Magazines
+spotify,com.spotify.music,,,Music and Audio
+tweek,so.tweek.android,,,Productivity
+rememberthemilk,com.rememberthemilk.MobileRTM,,,Productivity
+myfitnesspal,com.myfitnesspla.android,,,Health and Fitness
+loseit,com.fitnow.loseit,,,Health and Fitness
+deepl,com.deepl.mobiletranslator,,,Education
+todoist,com.todoist,,,Productivity
+geek,com.contextlogic.geek,,,Shopping
+home,com.contextlogic.home,,,Shopping

@@ -1,0 +1,26 @@
+[
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.HomeScreenActivity"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.expense.ExpensesList"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.expense.ExpensesList"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.expense.AddExpense"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.expense.AddExpense"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.expense.ExpensesList"
+    ]
+]

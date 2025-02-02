@@ -1,0 +1,23 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "luankevinferreira.expenses:id/total_month"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "$50.00"
+        }
+    },
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Food"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

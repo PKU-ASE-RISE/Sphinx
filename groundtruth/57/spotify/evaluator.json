@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "resource-id": "com.spotify.music:id/creator_names",
+            "text": "The Weeknd"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.spotify.music:id/play_pause_button",
+            "content-desc": "Pause"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

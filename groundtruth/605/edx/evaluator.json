@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "text": "Data Science"
+        },
+        "check_type": "include",
+        "check_rules": {
+            "text": "Data Science"
+        }
+    }
+]

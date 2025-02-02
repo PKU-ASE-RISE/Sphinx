@@ -1,0 +1,22 @@
+[
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.MainActivity"
+    ],
+    [
+        "com.waze",
+        "com.waze.search.v2.SearchV2Activity"
+    ],
+    [
+        "com.waze",
+        "com.waze.search.v2.SearchV2Activity"
+    ]
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "0",
+            "text": "Search News",
+            "resource-id": "jp.gocro.smartnews.android:id/searchTextView",
+            "class": "android.widget.TextView",
+            "package": "jp.gocro.smartnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[112,66][656,125]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "toy",
+        "element": {
+            "index": "0",
+            "text": "Search News",
+            "resource-id": "jp.gocro.smartnews.android:id/search_src_text",
+            "class": "android.widget.AutoCompleteTextView",
+            "package": "jp.gocro.smartnews.android",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,68][752,140]",
+            "drawing-order": "1",
+            "hint": "Search News",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

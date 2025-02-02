@@ -1,0 +1,22 @@
+[
+    [
+        "com.buzzfeed.android",
+        "com.buzzfeed.android.activity.PagerActivity"
+    ],
+    [
+        "com.buzzfeed.android",
+        "com.buzzfeed.android.activity.PagerActivity"
+    ],
+    [
+        "com.buzzfeed.android",
+        "com.buzzfeed.android.activity.SettingsActivity"
+    ],
+    [
+        "com.buzzfeed.android",
+        "com.buzzfeed.android.activity.SettingsActivity"
+    ],
+    [
+        "android",
+        "com.android.internal.app.ChooserActivity"
+    ]
+]

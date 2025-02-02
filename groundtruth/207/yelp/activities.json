@@ -1,0 +1,34 @@
+[
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.home.ui.RootSingleActivity"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.ui.activities.reservations.ActivityReservationFlow"
+    ],
+    [
+        "com.yelp.android",
+        "com.yelp.android.ui.activities.reservations.ActivityShareReservation"
+    ]
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "3",
+            "text": "",
+            "resource-id": "douzifly.list:id/fab_add",
+            "class": "android.widget.ImageButton",
+            "package": "douzifly.list",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[604,1012][736,1152]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "Sample Todo",
+        "element": {
+            "index": "0",
+            "text": "Title",
+            "resource-id": "douzifly.list:id/edit_text",
+            "class": "android.widget.EditText",
+            "package": "douzifly.list",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[20,48][748,132]",
+            "drawing-order": "5",
+            "hint": "Title",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "click",
+        "element": {
+            "NAF": "true",
+            "index": "4",
+            "text": "",
+            "resource-id": "douzifly.list:id/fab_add",
+            "class": "android.widget.ImageButton",
+            "package": "douzifly.list",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[604,1012][736,1152]",
+            "drawing-order": "5",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

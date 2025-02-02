@@ -1,0 +1,18 @@
+[
+    [
+        "com.odenapps.scanner",
+        "com.odenapps.scanner.ui.MainActivity"
+    ],
+    [
+        "com.odenapps.scanner",
+        "PopupWindow"
+    ],
+    [
+        "com.google.android.documentsui",
+        "com.android.documentsui.picker.PickActivity"
+    ],
+    [
+        "com.odenapps.scanner",
+        "com.odenapps.scanner.ui.BarcodeActivity"
+    ]
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "anti.tip:id/each"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "16.98"
+        }
+    }
+]

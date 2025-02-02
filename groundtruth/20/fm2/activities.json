@@ -1,0 +1,22 @@
+[
+    [
+        "com.cv.filemanager",
+        "com.cv.filemanager.activities.MainActivity"
+    ],
+    [
+        "com.cv.filemanager",
+        "com.cv.filemanager.activities.MainActivity"
+    ],
+    [
+        "com.cv.filemanager",
+        "com.cv.filemanager.imagevideoviewer.ImageViewerActivity"
+    ],
+    [
+        "com.cv.filemanager",
+        "com.cv.filemanager.imagevideoviewer.ImageViewerActivity"
+    ],
+    [
+        "com.cv.filemanager",
+        "com.cv.filemanager.imagevideoviewer.ImageViewerActivity"
+    ]
+]

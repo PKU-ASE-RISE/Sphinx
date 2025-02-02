@@ -1,0 +1,14 @@
+[
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.HomeScreenActivity"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.SearchTransactions"
+    ],
+    [
+        "com.anishu.homebudget.lite",
+        "com.anishu.homebudget.SearchTransactions"
+    ]
+]

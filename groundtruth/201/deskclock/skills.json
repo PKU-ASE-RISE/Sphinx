@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Find timer",
+        "length": 1,
+        "start_index": 0,
+        "end_index": 0
+    },
+    {
+        "name": "Input value for timer",
+        "length": 4,
+        "start_index": 1,
+        "end_index": 4
+    },
+    {
+        "name": "Start the timer",
+        "length": 1,
+        "start_index": 5,
+        "end_index": 5
+    }
+]

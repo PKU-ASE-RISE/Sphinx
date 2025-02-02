@@ -1,0 +1,22 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.google.android.apps.youtube.music:id/artist",
+            "text": "The Weeknd"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.google.android.apps.youtube.music:id/player_control_play_pause_replay_button",
+            "content-desc": "Pause video"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    }
+]

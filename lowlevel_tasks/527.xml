@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<hierarchy rotation="0">
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/status_bar_launch_animation_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0" />
+
+    <node index="1" text="" resource-id="com.android.systemui:id/status_bar_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="2" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/status_bar" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,48]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/status_bar_contents" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][728,48]" drawing-order="2" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/status_bar_left_side" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][364,48]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="6:27" resource-id="com.android.systemui:id/clock" class="android.widget.TextView" package="com.android.systemui" content-desc="6:27 PM" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,0][85,48]" drawing-order="2" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="com.android.systemui:id/notification_icon_area" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/notification_icon_area_inner" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/notificationIcons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][364,48]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Gmail notification: 22 new messages" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[85,0][129,48]" drawing-order="1" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="ATX notification: UIAutomator" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[129,0][173,48]" drawing-order="2" hint="" display-id="0" />
+
+                    <node index="2" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Android System notification: Serial console enabled" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[173,0][217,48]" drawing-order="3" hint="" display-id="0" />
+
+                    <node index="3" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Google notification: Phillies 0 - 0 Cubs" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[217,0][261,48]" drawing-order="4" hint="" display-id="0" />
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+          <node index="1" text="" resource-id="com.android.systemui:id/system_icon_area" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="4" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/system_icons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][712,48]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/statusIcons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[364,0][696,48]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/mobile_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="Phone signal full." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,2][684,46]" drawing-order="16" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/mobile_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,2][684,46]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.android.systemui:id/mobile_type" class="android.widget.ImageView" package="com.android.systemui" content-desc="LTE" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[595,8][654,40]" drawing-order="2" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="4" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.android.systemui:id/mobile_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[654,9][684,39]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+              <node index="1" text="" resource-id="com.android.systemui:id/battery" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="Battery 100 percent." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,0][712,48]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[696,11][712,37]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_frame" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_view" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="com.android.systemui:id/navigation_inflater" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.android.systemui:id/horizontal" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1184][768,1280]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="com.android.systemui:id/nav_buttons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.android.systemui:id/ends_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[16,1184][89,1280]" drawing-order="1" hint="" display-id="0" />
+
+              <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="2" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/back" class="android.widget.ImageView" package="com.android.systemui" content-desc="Back" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[89,1184][236,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="2" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="4" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/recent_apps" class="android.widget.ImageView" package="com.android.systemui" content-desc="Overview" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[530,1184][678,1280]" drawing-order="1" hint="" display-id="0" />
+
+              </node>
+
+              <node index="3" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="5" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/menu_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.android.systemui:id/ime_switcher" class="android.widget.ImageView" package="com.android.systemui" content-desc="Switch input method" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[678,1184][752,1280]" drawing-order="2" hint="" display-id="0" />
+
+                </node>
+
+              </node>
+
+            </node>
+
+            <node index="1" text="" resource-id="com.android.systemui:id/center_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="2" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="com.android.systemui:id/home" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.android.systemui:id/home_button" class="android.widget.ImageView" package="com.android.systemui" content-desc="Home" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="5" hint="" display-id="0" />
+
+                <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[304,1184][464,1280]" drawing-order="1" hint="" display-id="0" />
+
+                <node index="2" text="" resource-id="com.android.systemui:id/white_cutout" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="3" hint="" display-id="0" />
+
+                <node index="3" text="" resource-id="com.android.systemui:id/white" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[352,1200][416,1264]" drawing-order="4" hint="" display-id="0" />
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1280]" drawing-order="0" hint="" display-id="0">
+
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+      <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+        <node index="0" text="" resource-id="com.etsy.android:id/action_bar_root" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+          <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+            <node index="0" text="" resource-id="com.etsy.android:id/root_container" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+              <node index="0" text="" resource-id="" class="android.widget.RelativeLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,1184]" drawing-order="1" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="com.etsy.android:id/app_bar_layout" class="android.widget.LinearLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,160]" drawing-order="2" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.etsy.android:id/app_bar_toolbar" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][768,160]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.widget.ImageButton" package="com.etsy.android" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,48][112,160]" drawing-order="1" hint="" display-id="0" />
+
+                    <node index="1" text="" resource-id="" class="android.widget.RelativeLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,56][768,152]" drawing-order="3" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="" class="androidx.appcompat.widget.LinearLayoutCompat" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,56][768,152]" drawing-order="1" hint="" display-id="0">
+
+                        <node index="0" text="" resource-id="com.etsy.android:id/search_bar" class="android.widget.LinearLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,56][768,152]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.etsy.android:id/search_edit_frame" class="android.widget.LinearLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[112,56][768,152]" drawing-order="3" hint="" display-id="0">
+
+                            <node index="0" text="" resource-id="com.etsy.android:id/search_plate" class="android.widget.LinearLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[128,56][768,152]" drawing-order="2" hint="" display-id="0">
+
+                              <node index="0" text="toy" resource-id="com.etsy.android:id/search_src_text" class="android.widget.AutoCompleteTextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[128,68][672,140]" drawing-order="1" hint="Search for anything on Etsy" display-id="0" />
+
+                              <node index="1" text="" resource-id="com.etsy.android:id/search_close_btn" class="android.widget.ImageView" package="com.etsy.android" content-desc="Clear query" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,56][768,152]" drawing-order="2" hint="" display-id="0" />
+
+                            </node>
+
+                          </node>
+
+                        </node>
+
+                      </node>
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+                <node index="1" text="" resource-id="com.etsy.android:id/nav_content_frame" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1184]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.etsy.android:id/search_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1072]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1072]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/search_suggestions_recyclerview" class="android.widget.GridView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="true" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,1072]" drawing-order="2" hint="" display-id="0">
+
+                        <node index="0" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toys" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,160][768,248]" drawing-order="1" hint="" display-id="0">
+
+                          <node index="0" text="toys" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,186][672,222]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toys suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,160][768,248]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="1" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toy story" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,248][768,336]" drawing-order="2" hint="" display-id="0">
+
+                          <node index="0" text="toy story" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,274][672,310]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toy story suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,248][768,336]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="2" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toy story shirt" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,336][768,424]" drawing-order="3" hint="" display-id="0">
+
+                          <node index="0" text="toy story shirt" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,362][672,398]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toy story shirt suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,336][768,424]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="3" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toy story svg" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,424][768,512]" drawing-order="4" hint="" display-id="0">
+
+                          <node index="0" text="toy story svg" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,450][672,486]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toy story svg suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,424][768,512]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="4" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toy story font" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,512][768,600]" drawing-order="5" hint="" display-id="0">
+
+                          <node index="0" text="toy story font" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,538][672,574]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toy story font suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,512][768,600]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="5" text="" resource-id="com.etsy.android:id/suggestion_item" class="android.widget.Button" package="com.etsy.android" content-desc="toy story png" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,600][768,688]" drawing-order="6" hint="" display-id="0">
+
+                          <node index="0" text="toy story png" resource-id="com.etsy.android:id/query_text" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,626][672,662]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="1" text="" resource-id="com.etsy.android:id/populate_suggestion" class="android.widget.Button" package="com.etsy.android" content-desc="Populate the search field with toy story png suggestion" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[672,600][768,688]" drawing-order="1" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="6" text="" resource-id="" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,688][768,748]" drawing-order="7" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.etsy.android:id/search_suggestion_small_header_divider" class="android.view.View" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,688][736,690]" drawing-order="1" hint="" display-id="0" />
+
+                          <node index="1" text="Shops" resource-id="com.etsy.android:id/search_suggestion_small_header" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,718][113,748]" drawing-order="2" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="7" text="" resource-id="com.etsy.android:id/shop_item" class="android.widget.Button" package="com.etsy.android" content-desc="Cyberoptix, Bethany Shorb, Shop owner" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,748][768,852]" drawing-order="8" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.etsy.android:id/shop_icon" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,764][104,836]" drawing-order="1" hint="" display-id="0" />
+
+                          <node index="1" text="Cyberoptix" resource-id="com.etsy.android:id/shop_name" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,764][736,800]" drawing-order="2" hint="" display-id="0" />
+
+                          <node index="2" text="Bethany Shorb" resource-id="com.etsy.android:id/shop_owner" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,800][366,836]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="3" text="•" resource-id="com.etsy.android:id/shop_owner_label_separator" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[374,800][386,836]" drawing-order="4" hint="" display-id="0" />
+
+                          <node index="4" text="Shop owner" resource-id="com.etsy.android:id/shop_owner_label" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[394,800][582,836]" drawing-order="5" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="8" text="" resource-id="com.etsy.android:id/shop_item" class="android.widget.Button" package="com.etsy.android" content-desc="toysofthepast, toysofthepast, Shop owner" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,852][768,956]" drawing-order="9" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.etsy.android:id/shop_icon" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,868][104,940]" drawing-order="1" hint="" display-id="0" />
+
+                          <node index="1" text="toysofthepast" resource-id="com.etsy.android:id/shop_name" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,868][736,904]" drawing-order="2" hint="" display-id="0" />
+
+                          <node index="2" text="toysofthepast" resource-id="com.etsy.android:id/shop_owner" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,904][353,940]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="3" text="•" resource-id="com.etsy.android:id/shop_owner_label_separator" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[361,904][373,940]" drawing-order="4" hint="" display-id="0" />
+
+                          <node index="4" text="Shop owner" resource-id="com.etsy.android:id/shop_owner_label" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[381,904][569,940]" drawing-order="5" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="9" text="" resource-id="com.etsy.android:id/shop_item" class="android.widget.Button" package="com.etsy.android" content-desc="ToysFromTheAttic, Anne, Shop owner" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,956][768,1060]" drawing-order="10" hint="" display-id="0">
+
+                          <node index="0" text="" resource-id="com.etsy.android:id/shop_icon" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[32,972][104,1044]" drawing-order="1" hint="" display-id="0" />
+
+                          <node index="1" text="ToysFromTheAttic" resource-id="com.etsy.android:id/shop_name" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,972][736,1008]" drawing-order="2" hint="" display-id="0" />
+
+                          <node index="2" text="Anne" resource-id="com.etsy.android:id/shop_owner" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[136,1008][219,1044]" drawing-order="3" hint="" display-id="0" />
+
+                          <node index="3" text="•" resource-id="com.etsy.android:id/shop_owner_label_separator" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[227,1008][239,1044]" drawing-order="4" hint="" display-id="0" />
+
+                          <node index="4" text="Shop owner" resource-id="com.etsy.android:id/shop_owner_label" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[247,1008][435,1044]" drawing-order="5" hint="" display-id="0" />
+
+                        </node>
+
+                        <node index="10" text="" resource-id="com.etsy.android:id/shop_item" class="android.widget.Button" package="com.etsy.android" content-desc="toyzfromthedarkside, James Gambino, Shop owner" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1060][768,1072]" drawing-order="11" hint="" display-id="0" />
+
+                      </node>
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+              <node index="1" text="" resource-id="com.etsy.android:id/bottom_navigation" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1072][768,1184]" drawing-order="3" hint="" display-id="0">
+
+                <node index="0" text="" resource-id="" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,1072][768,1184]" drawing-order="1" hint="" display-id="0">
+
+                  <node index="0" text="" resource-id="com.etsy.android:id/menu_bottom_nav_home" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="Home" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[0,1072][154,1184]" drawing-order="1" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[53,1088][101,1136]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_view" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[53,1088][101,1136]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="1" text="" resource-id="com.etsy.android:id/navigation_bar_item_labels_group" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[42,1137][111,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="Home" resource-id="com.etsy.android:id/navigation_bar_item_large_label_view" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="true" visible-to-user="true" bounds="[42,1137][111,1170]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                  <node index="1" text="" resource-id="com.etsy.android:id/menu_bottom_nav_deals" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="Deals" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[154,1072][308,1184]" drawing-order="2" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[207,1088][255,1136]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_view" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[207,1088][255,1136]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="1" text="" resource-id="com.etsy.android:id/navigation_bar_item_labels_group" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[199,1137][262,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="Deals" resource-id="com.etsy.android:id/navigation_bar_item_small_label_view" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[199,1137][262,1170]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                  <node index="2" text="" resource-id="com.etsy.android:id/menu_bottom_nav_gift_mode" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="Gift Mode" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[308,1072][462,1184]" drawing-order="3" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[361,1088][409,1136]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_view" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[361,1088][409,1136]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="1" text="" resource-id="com.etsy.android:id/navigation_bar_item_labels_group" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[327,1137][442,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="Gift Mode" resource-id="com.etsy.android:id/navigation_bar_item_small_label_view" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[327,1137][442,1170]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                  <node index="3" text="" resource-id="com.etsy.android:id/menu_bottom_nav_you" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="You" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[462,1072][615,1184]" drawing-order="4" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[514,1088][562,1136]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_view" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[514,1088][562,1136]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="1" text="" resource-id="com.etsy.android:id/navigation_bar_item_labels_group" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[516,1137][560,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="You" resource-id="com.etsy.android:id/navigation_bar_item_small_label_view" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[516,1137][560,1170]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                  <node index="4" text="" resource-id="com.etsy.android:id/menu_bottom_nav_cart" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="Cart" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[615,1072][768,1184]" drawing-order="5" hint="" display-id="0">
+
+                    <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_container" class="android.widget.FrameLayout" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[667,1088][715,1136]" drawing-order="1" hint="" display-id="0">
+
+                      <node index="0" text="" resource-id="com.etsy.android:id/navigation_bar_item_icon_view" class="android.widget.ImageView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[667,1088][715,1136]" drawing-order="2" hint="" display-id="0" />
+
+                    </node>
+
+                    <node index="1" text="" resource-id="com.etsy.android:id/navigation_bar_item_labels_group" class="android.view.ViewGroup" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[666,1137][716,1184]" drawing-order="2" hint="" display-id="0">
+
+                      <node index="0" text="Cart" resource-id="com.etsy.android:id/navigation_bar_item_small_label_view" class="android.widget.TextView" package="com.etsy.android" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[666,1137][716,1170]" drawing-order="1" hint="" display-id="0" />
+
+                    </node>
+
+                  </node>
+
+                </node>
+
+              </node>
+
+            </node>
+
+          </node>
+
+        </node>
+
+      </node>
+
+    </node>
+
+  </node>
+
+</hierarchy>

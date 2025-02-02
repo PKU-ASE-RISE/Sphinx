@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Open post publishing page",
+        "length": 2,
+        "start_index": 0,
+        "end_index": 1
+    },
+    {
+        "name": "Input text or picture for the post",
+        "length": 3,
+        "start_index": 2,
+        "end_index": 4
+    },
+    {
+        "name": "Publish the new post",
+        "length": 2,
+        "start_index": 5,
+        "end_index": 6
+    }
+]

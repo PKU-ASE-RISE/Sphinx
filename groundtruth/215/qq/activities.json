@@ -1,0 +1,26 @@
+[
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.SplashActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.QPublicFragmentActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.GeneralSettingActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.FontSettingActivity"
+    ],
+    [
+        "com.tencent.mobileqq",
+        "com.tencent.mobileqq.activity.FontSettingActivity"
+    ]
+]

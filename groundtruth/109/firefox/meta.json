@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "element": {
+            "index": "1",
+            "text": "Search or enter address",
+            "resource-id": "org.mozilla.firefox:id/toolbar",
+            "class": "android.widget.TextView",
+            "package": "org.mozilla.firefox",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "false",
+            "enabled": "true",
+            "focusable": "false",
+            "focused": "false",
+            "scrollable": "false",
+            "long-clickable": "false",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,83][600,124]",
+            "drawing-order": "2",
+            "hint": "",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "input",
+        "message": "History of computer development",
+        "element": {
+            "index": "2",
+            "text": "Search or enter address",
+            "resource-id": "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view",
+            "class": "android.widget.EditText",
+            "package": "org.mozilla.firefox",
+            "content-desc": "",
+            "checkable": "false",
+            "checked": "false",
+            "clickable": "true",
+            "enabled": "true",
+            "focusable": "true",
+            "focused": "true",
+            "scrollable": "false",
+            "long-clickable": "true",
+            "password": "false",
+            "selected": "false",
+            "visible-to-user": "true",
+            "bounds": "[128,64][576,144]",
+            "drawing-order": "4",
+            "hint": "Search or enter address",
+            "display-id": "0"
+        }
+    },
+    {
+        "type": "enter",
+        "element": null
+    },
+    {
+        "type": "stop",
+        "element": null
+    }
+]

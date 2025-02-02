@@ -1,0 +1,25 @@
+[
+    {
+        "type": "findaction",
+        "match_type": "equal",
+        "match_rules": {
+            "action_type": "input",
+            "message": "Sample Todo"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "resource-id": "com.rubenroy.minimaltodo:id/userToDoEditText"
+        }
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "resource-id": "com.rubenroy.minimaltodo:id/toDoListItemTextview"
+        },
+        "check_type": "equal",
+        "check_rules": {
+            "text": "Sample Todo"
+        }
+    }
+]

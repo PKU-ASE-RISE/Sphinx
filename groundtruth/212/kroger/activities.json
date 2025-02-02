@@ -1,0 +1,18 @@
+[
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.home.HomeActivity"
+    ],
+    [
+        "com.kroger.mobile",
+        "PopupWindow"
+    ],
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.home.HomeActivity"
+    ],
+    [
+        "com.kroger.mobile",
+        "com.kroger.mobile.loyalty.ui.BannerLoyaltyCardActivity"
+    ]
+]

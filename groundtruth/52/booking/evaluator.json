@@ -1,0 +1,30 @@
+[
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "Paris"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "equal",
+        "match_rules": {
+            "text": "New York"
+        },
+        "check_type": "equal",
+        "check_rules": {}
+    },
+    {
+        "type": "stoppage",
+        "match_type": "include",
+        "match_rules": {
+            "resource-id": "com.booking:id/flights_search_results_summary_search_options",
+            "text": "1 adult"
+        },
+        "check_type": "include",
+        "check_rules": {}
+    }
+]
