@@ -1,0 +1,5 @@
+**/__pycache__
+knowledge_probing/
+lowlevel_trace/
+revised_lowlevel_trace/
+trace*
