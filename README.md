@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ### Application Package Setup
 
-1. Download [APKs]().
+1. Download [APKs](https://drive.google.com/file/d/1M_vCeNCf3WVLL6-ae4AdIXnl5VNSgiIE/view?usp=sharing).
 1. Extract contents to apks/ directory
 
 ## Task Execution
