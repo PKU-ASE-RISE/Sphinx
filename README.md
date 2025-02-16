@@ -22,6 +22,9 @@
    - Start the emulator
    - Authenticate with Google account (required for app functionality)
 
+4. **Configure LLM API**  
+   Place only your API key (we support OpenAI, Dashscope, Deepseek) on a single line in the `xxxx_api.key` file.
+
 ### Environment Configuration
 ```bash
 conda create -n sphinx python=3.11.8

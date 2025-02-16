@@ -226,7 +226,7 @@ if __name__ == "__main__":
                 continue
             for app in apps:
                 # try:
-                trace_dir = Path(".") / "trace_old" / llm / \
+                trace_dir = Path(".") / "trace" / llm / \
                     (observation_mode+("_skill" if tell_skill else "")) / \
                     str(id) / app
                 evaluator_path = Path(".") / "groundtruth" / \
